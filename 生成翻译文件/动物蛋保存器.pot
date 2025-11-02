@@ -1,0 +1,213 @@
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.DESC
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.DESC"
+msgid "Can store <link=\"CREATURES\">critter</link> eggs, which prevents them from hatching and getting damaged."
+msgstr "可以储存<link=\"CREATURES\">小动物</link>的蛋，防止孵化和受损。"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.EFFECT
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.EFFECT"
+msgid "Stores <link=\"CREATURES\">critter</link> eggs and prevents them from hatching or losing viability."
+msgstr "储存<link=\"CREATURES\">小动物</link>的蛋，防止孵化或失去活性。"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY"
+msgid "Freezing Efficiency"
+msgstr "冷冻效率"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY_ACTIVE
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b>, when the efficiency is high enough to freeze eggs"
+msgstr "当效率足够高以冷冻蛋时，发送<b><style=\"logic_on\">绿色信号</style></b>"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY_INACTIVE
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY_INACTIVE"
+msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b>, when the efficiency is too low to freeze eggs"
+msgstr "当效率过低无法冷冻蛋时，发送<b><style=\"logic_off\">红色信号</style></b>"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL"
+msgid "Full"
+msgstr "已满"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL_ACTIVE
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b>, when the building is full"
+msgstr "当建筑已满时，发送<b><style=\"logic_on\">绿色信号</style></b>"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL_INACTIVE
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL_INACTIVE"
+msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b>, when the building is not full"
+msgstr "当建筑未满时，发送<b><style=\"logic_off\">红色信号</style></b>"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN"
+msgid "Operational"
+msgstr "可操作"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN_ACTIVE
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b>, when the building is operational"
+msgstr "当建筑可操作时，发送<b><style=\"logic_on\">绿色信号</style></b>"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN_INACTIVE
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN_INACTIVE"
+msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b>, when the building is not operational"
+msgstr "当建筑不可操作时，发送<b><style=\"logic_off\">红色信号</style></b>"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.NAME
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.NAME"
+msgid "<link=\"EGGCRYOPRESERVATION\">Egg Cryopreservation</link>"
+msgstr "<link=\"EGGCRYOPRESERVATION\">蛋冷冻保存</link>"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.UNITS
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.UNITS"
+msgid "Eggs"
+msgstr "蛋"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION.NAME
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION.NAME"
+msgid "Cryo Efficiency: {percentage}%"
+msgstr "冷冻效率：{percentage}%"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION.TOOLTIP
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION.TOOLTIP"
+msgid "This is how efficient cryo-cooling is. At 100%, the content is fully frozen, at 0%, the eggs continue to hatch."
+msgstr "这是冷冻效率。100%时内容物完全冻结，0%时蛋会继续孵化。"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FROZEN.NAME
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FROZEN.NAME"
+msgid "Cryopreserved"
+msgstr "已冷冻保存"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FROZEN.TOOLTIP
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FROZEN.TOOLTIP"
+msgid "All biological processes are halted."
+msgstr "所有生物过程都已停止。"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FULLEFFICIENCY.NAME
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FULLEFFICIENCY.NAME"
+msgid "Fully Efficient"
+msgstr "完全高效"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FULLEFFICIENCY.TOOLTIP
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FULLEFFICIENCY.TOOLTIP"
+msgid "The Cryo Efficiency is at maximum, so the power consumption is reduced to {wattage}."
+msgstr "冷冻效率已达最大，因此功耗降低到{wattage}。"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_TOOLOW.NAME
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_TOOLOW.NAME"
+msgid "The eggs are hatching!"
+msgstr "蛋正在孵化！"
+
+#. EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_TOOLOW.TOOLTIP
+msgctxt "EggCryopreservation.STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_TOOLOW.TOOLTIP"
+msgid "The Cryo Efficiency is too low to freeze the eggs and keep them from hatching!"
+msgstr "冷冻效率过低，无法冷冻蛋并阻止其孵化！"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.DESC"
+msgid "Can store <link=\"CREATURES\">critter</link> eggs, which prevents them from hatching and getting damaged."
+msgstr "可以储存<link=\"CREATURES\">小动物</link>的蛋，防止孵化和受损。"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.EFFECT"
+msgid "Stores <link=\"CREATURES\">critter</link> eggs and prevents them from hatching or losing viability."
+msgstr "储存<link=\"CREATURES\">小动物</link>的蛋，防止孵化或失去活性。"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY"
+msgid "Freezing Efficiency"
+msgstr "冷冻效率"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b>, when the efficiency is high enough to freeze eggs"
+msgstr "当效率足够高以冷冻蛋时，发送<b><style=\"logic_on\">绿色信号</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_EFFICIENCY_INACTIVE"
+msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b>, when the efficiency is too low to freeze eggs"
+msgstr "当效率过低无法冷冻蛋时，发送<b><style=\"logic_off\">红色信号</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL"
+msgid "Full"
+msgstr "已满"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b>, when the building is full"
+msgstr "当建筑已满时，发送<b><style=\"logic_on\">绿色信号</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_FULL_INACTIVE"
+msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b>, when the building is not full"
+msgstr "当建筑未满时，发送<b><style=\"logic_off\">红色信号</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN"
+msgid "Operational"
+msgstr "可操作"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b>, when the building is operational"
+msgstr "当建筑可操作时，发送<b><style=\"logic_on\">绿色信号</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.LOGIC_OPEN_INACTIVE"
+msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b>, when the building is not operational"
+msgstr "当建筑不可操作时，发送<b><style=\"logic_off\">红色信号</style></b>"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.NAME"
+msgid "<link=\"EGGCRYOPRESERVATION\">Egg Cryopreservation</link>"
+msgstr "<link=\"EGGCRYOPRESERVATION\">蛋冷冻保存</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.UNITS
+msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRYOPRESERVATION.UNITS"
+msgid "Eggs"
+msgstr "蛋"
+
+#. STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION.NAME
+msgctxt "STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION.NAME"
+msgid "Cryo Efficiency: {percentage}%"
+msgstr "冷冻效率：{percentage}%"
+
+#. STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION.TOOLTIP"
+msgid "This is how efficient cryo-cooling is. At 100%, the content is fully frozen, at 0%, the eggs continue to hatch."
+msgstr "这是冷冻效率。100%时内容物完全冻结，0%时蛋会继续孵化。"
+
+#. STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FROZEN.NAME
+msgctxt "STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FROZEN.NAME"
+msgid "Cryopreserved"
+msgstr "已冷冻保存"
+
+#. STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FROZEN.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FROZEN.TOOLTIP"
+msgid "All biological processes are halted."
+msgstr "所有生物过程都已停止。"
+
+#. STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FULLEFFICIENCY.NAME
+msgctxt "STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FULLEFFICIENCY.NAME"
+msgid "Fully Efficient"
+msgstr "完全高效"
+
+#. STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FULLEFFICIENCY.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_FULLEFFICIENCY.TOOLTIP"
+msgid "The Cryo Efficiency is at maximum, so the power consumption is reduced to {wattage}."
+msgstr "冷冻效率已达最大，因此功耗降低到{wattage}。"
+
+#. STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_TOOLOW.NAME
+msgctxt "STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_TOOLOW.NAME"
+msgid "The eggs are hatching!"
+msgstr "蛋正在孵化！"
+
+#. STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_TOOLOW.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.STATUSITEMS.EGGCRYOPRESERVATION_TOOLOW.TOOLTIP"
+msgid "The Cryo Efficiency is too low to freeze the eggs and keep them from hatching!"
+msgstr "冷冻效率过低，无法冷冻蛋并阻止其孵化！"
+
+
+

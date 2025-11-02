@@ -1,0 +1,17 @@
+
+#. STRINGS.BUILDINGS.PREFABS.CONVEYORFILTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONVEYORFILTER.DESC"
+msgid "All materials not selected for filtering are directed to the main output rail."
+msgstr "所有未被选中进行过滤的材料都会被送往主输出轨道。"
+
+#. STRINGS.BUILDINGS.PREFABS.CONVEYORFILTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONVEYORFILTER.EFFECT"
+msgid "Filters selected <link=\"ELEMENTSSOLID\">Solid Materials</link>. Filtered items are sent onto a dedicated <link=\"SOLIDCONDUIT\">Filtered Output Conveyor Rail</link>"
+msgstr "过滤选定的<link=\"ELEMENTSSOLID\">固体材料</link>。被过滤的物品会被送往专用的<link=\"SOLIDCONDUIT\">过滤输出传送带轨道</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CONVEYORFILTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONVEYORFILTER.NAME"
+msgid "<link=\"CONVEYORFILTER\">Conveyor Filter</link>"
+msgstr "<link=\"CONVEYORFILTER\">传送带过滤器</link>"
+
+

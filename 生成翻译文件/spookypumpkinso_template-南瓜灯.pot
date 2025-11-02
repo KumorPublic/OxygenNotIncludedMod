@@ -1,0 +1,435 @@
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.SPOOKYPUMPKING_LUXURYBED_PUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.SPOOKYPUMPKING_LUXURYBED_PUMPKIN.DESC"
+msgid "This magical pumpkin will carry any Duplicant to phantasmagorical dreams."
+msgstr "这个神奇的南瓜将带领任何复制人进入奇幻梦境。"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.SPOOKYPUMPKING_LUXURYBED_PUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.SPOOKYPUMPKING_LUXURYBED_PUMPKIN.NAME"
+msgid "<link=\"LUXURYBED\">Pumpkin Pit Bed</link>"
+msgstr "<link=\"LUXURYBED\">南瓜坑床</link>"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.DESC"
+msgid "A friendly lamp that does not spook duplicants."
+msgstr "一盏不会吓到复制人的友好灯具。"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.EFFECT
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.EFFECT"
+msgid "Provides Light and Decor."
+msgstr "提供照明和装饰。"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.NAME" 
+msgid "<link=\"SPFRIENDLYPUMPKIN\">Friendly Pumpkin Lantern</link>"
+msgstr "<link=\"SPFRIENDLYPUMPKIN\">友好南瓜灯</link>"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_0
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_0"
+msgid "((^ω^))"
+msgstr "((^ω^))"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_1
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_1"
+msgid "((°▽°))"
+msgstr "((°▽°))"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_2
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_2"
+msgid "Mean 'kin"
+msgstr "凶狠南瓜"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_3
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_3"
+msgid "Meaner 'kin"
+msgstr "更凶的南瓜"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_4
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_4"
+msgid "Meep O' Lantern"
+msgstr "咪普南瓜灯"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_5
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_5"
+msgid "Just so happy to be here!"
+msgstr "在这里太开心了！"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_6
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_6"
+msgid "o0o"
+msgstr "o0o"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_7
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_FRIENDLYPUMPKIN.VARIANTS.FRIENDLYPUMPKINFACE_7"
+msgid "((°ᗢ°))"
+msgstr "((°ᗢ°))"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC"
+msgid "A spooky lamp for spooky times."
+msgstr "一盏恐怖时光的恐怖灯具。"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.EFFECT
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.EFFECT"
+msgid "Provides Light and Decor. Spooks duplicants that come nearby."
+msgstr "提供照明和装饰。会吓到靠近的复制人。"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.NAME"
+msgid "<link=\"SPSPOOKYPUMPKIN\">Jack O' Lantern</link>"
+msgstr "<link=\"SPSPOOKYPUMPKIN\">杰克南瓜灯</link>"
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.DESC"
+msgid "The MISSING. of a MISSING. plant.\n\nIt can be planted to grow more Pumpkins, or toasted for snacks."
+msgstr "一种未知植物的未知。\n\n可以种植来生长更多南瓜，或者烤制成零食。"
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.NAME"
+msgid "<link=\"SPPUMPKINPLANT\">Pumpkin Seed</link>"
+msgstr "<link=\"SPPUMPKINPLANT\">南瓜籽</link>"
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.DESC"
+msgid "Seems suspicious. It looks like it would love some treats.\n\n<smallcaps>The Suspicious Pip will offer to trade for Pumpkin Seeds. The required item will change daily and after each trade.</smallcaps>"
+msgstr "看起来很可疑。似乎喜欢一些零食。\n\n<smallcaps>这只可疑的皮普会提供南瓜籽进行交易。所需物品每天都会改变，每次交易后也会改变。</smallcaps>"
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.NAME"
+msgid "<link=\"SQUIRREL\">Suspicious Pip</link>"
+msgstr "<link=\"SQUIRREL\">可疑的皮普</link>"
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DECOR_NAME
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DECOR_NAME"
+msgid "<link=\"SPPUMPKINPLANT\">Decorative Pumpkin</link>"
+msgstr "<link=\"SPPUMPKINPLANT\">装饰南瓜</link>"
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DESC"
+msgid "Pumpkins are pretty neat. They grow enormous fruits also called <link=\"SPPUMPKIN\">Pumpkins</link>."
+msgstr "南瓜很整洁。它们会长出巨大的果实，也叫做<link=\"SPPUMPKIN\">南瓜</link>。"
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DOMESTICATEDDESC
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DOMESTICATEDDESC"
+msgid "Pumpkins are pretty neat. They grow enormous fruits also called <link=\"SPPUMPKIN\">Pumpkins</link>."
+msgstr "南瓜很整洁。它们会长出巨大的果实，也叫做<link=\"SPPUMPKIN\">南瓜</link>。"
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.NAME"
+msgid "<link=\"SPPUMPKINPLANT\">Pumpkin</link>"
+msgstr "<link=\"SPPUMPKINPLANT\">南瓜</link>"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.DISEASES.SP_SICKNESS_SUGARSICKNESS.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.DISEASES.SP_SICKNESS_SUGARSICKNESS.NAME"
+msgid "<link=\"SPSICKNESSSUGARSICKNESS\">Sugar sick!</link>"
+msgstr "<link=\"SPSICKNESSSUGARSICKNESS\">糖分过量！</link>"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.DISEASES.SP_SICKNESS_SUGARSICKNESS.SOURCE
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.DISEASES.SP_SICKNESS_SUGARSICKNESS.SOURCE"
+msgid "Twitch chat"
+msgstr "Twitch 聊天"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.DESCRIPTION
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.DESCRIPTION"
+msgid "This Duplicant is excited for this time of year. (All stats up!)"
+msgstr "这个复制人对一年中的这个时节感到兴奋。（所有属性提升！）"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.NAME"
+msgid "Holiday Spirit"
+msgstr "节日精神"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.GHASTLY.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.GHASTLY.NAME"
+msgid "Ghastly"
+msgstr "可怖的"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.GHASTLY.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.GHASTLY.TOOLTIP"
+msgid ""
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.NAME"
+msgid "Holiday Spirit"
+msgstr "节日精神"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.TOOLTIP"
+msgid "This Duplicant is excited for this time of year. (All stats up!)"
+msgstr "这个复制人对一年中的这个时节感到兴奋。（所有属性提升！）"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SP_GHASTLYLITBONUS.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SP_GHASTLYLITBONUS.NAME"
+msgid "Otherworldly Focus"
+msgstr "超凡专注"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SP_GHASTLYLITBONUS.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SP_GHASTLYLITBONUS.TOOLTIP"
+msgid "<b>Properties</b>\n    • <style=\"KKeyword\">Work Speed</style>: {0}\n    • <style=\"KKeyword\">Stress</style>: {1}"
+msgstr "<b>属性</b>\n    • <style=\"KKeyword\">工作速度</style>: {0}\n    • <style=\"KKeyword\">压力</style>: {1}"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.NAME"
+msgid "Spooked!"
+msgstr "被吓到了！"
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.TOOLTIP"
+msgid "This Duplicant saw something super scary!"
+msgstr "这个复制人看到了超级可怕的东西！"
+
+#. SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.FACADES.SP_JACKSKELLINGTONCOSTUME
+msgctxt "SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.FACADES.SP_JACKSKELLINGTONCOSTUME"
+msgid "<link=\"SPHALLOWEENCOSTUME\">Skellington Costume</link>"
+msgstr "<link=\"SPHALLOWEENCOSTUME\">骷髅服装</link>"
+
+#. SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.FACADES.SP_SCARECROWCOSTUME
+msgctxt "SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.FACADES.SP_SCARECROWCOSTUME"
+msgid "<link=\"SPHALLOWEENCOSTUME\">Scarecrow Costume</link>"
+msgstr "<link=\"SPHALLOWEENCOSTUME\">稻草人服装</link>"
+
+#. SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.FACADES.SP_VAMPIRECOSTUME
+msgctxt "SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.FACADES.SP_VAMPIRECOSTUME"
+msgid "<link=\"SPHALLOWEENCOSTUME\">Vampire Costume</link>"
+msgstr "<link=\"SPHALLOWEENCOSTUME\">吸血鬼服装</link>"
+
+#. SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.GENERICNAME
+msgctxt "SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.GENERICNAME"
+msgid "<link=\"SPHALLOWEENCOSTUME\">Halloween Costume</link>"
+msgstr "<link=\"SPHALLOWEENCOSTUME\">万圣节服装</link>"
+
+#. SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.EQUIPMENT.PREFABS.SP_HALLOWEENCOSTUME.NAME"
+msgid "<link=\"SPHALLOWEENCOSTUME\">Halloween Costume</link>"
+msgstr "<link=\"SPHALLOWEENCOSTUME\">万圣节服装</link>"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.DESC"
+msgid "Bland tasting fruit of a <link=\"SPPUMPKINPLANT\">Pumpkin</link> plant."
+msgstr "<link=\"SPPUMPKINPLANT\">南瓜</link>植物的清淡果实。"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.NAME"
+msgid "<link=\"SPPUMPKIN\">Pumpkin</link>"
+msgstr "<link=\"SPPUMPKIN\">南瓜</link>"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DEHYDRATED.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DEHYDRATED.DESC"
+msgid "A dehydrated MISSING. ration. It must be rehydrated in order to be considered <link=\"FOOD\">Food</link>.\n\nDry rations have no expiry date."
+msgstr "一种脱水的口粮。必须加水复原后才能算作<link=\"FOOD\">食物</link>。\n\n干燥口粮没有保质期。"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DEHYDRATED.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DEHYDRATED.NAME"
+msgid "Dried Pumpkin Pie"
+msgstr "干南瓜派"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DESC"
+msgid "A delicious seasonal treat."
+msgstr "一道美味的时令点心。"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.NAME"
+msgid "<link=\"SPPUMPKINPIE\">Pumpkin Pie</link>"
+msgstr "<link=\"SPPUMPKINPIE\">南瓜派</link>"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.DESC"
+msgid "Tasty snack."
+msgstr "美味的小吃。"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.NAME"
+msgid "<link=\"SPTOASTEDPUMPKINSEED\">Roasted Pumpkin Seeds</link>"
+msgstr "<link=\"SPTOASTEDPUMPKINSEED\">烤南瓜籽</link>"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.SPICES.SP_PUMPKIN_SPICE.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.SPICES.SP_PUMPKIN_SPICE.DESC"
+msgid "It's that season of the year!"
+msgstr "又是一年这个季节！"
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.SPICES.SP_PUMPKIN_SPICE.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.SPICES.SP_PUMPKIN_SPICE.NAME"
+msgid "<link=\"SPPUMPKINSPICE\">Pumpkin Spice</link>"
+msgstr "<link=\"SPPUMPKINSPICE\">南瓜香料</link>"
+
+#. SpookyPumpkinSO.STRINGS.UI.RECARVE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.RECARVE"
+msgid "Recarve"
+msgstr "重新雕刻"
+
+#. SpookyPumpkinSO.STRINGS.UI.ROTATE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.ROTATE"
+msgid "Rotate"
+msgstr "旋转"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.FOODRAIN.TOAST_BODY
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.FOODRAIN.TOAST_BODY"
+msgid "Food!"
+msgstr "食物！"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.PIPTERGEIST.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.PIPTERGEIST.NAME"
+msgid "Piptergeists"
+msgstr "幽灵皮普"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.PIPTERGEIST.TOAST
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.PIPTERGEIST.TOAST"
+msgid "Piptergeists!"
+msgstr "幽灵皮普来了！"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.PIPTERGEIST.TOAST_BODY
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.PIPTERGEIST.TOAST_BODY"
+msgid "Ghosts Pips are rummaging the storages! How rude!"
+msgstr "幽灵皮普正在翻你的储藏室！太没礼貌了！"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.ROTFOOD.TOAST_BODY
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.ROTFOOD.TOAST_BODY"
+msgid "Spoiled Rotten!\n\nSome of your food has rotten."
+msgstr "全都坏掉了！\n\n你的一些食物已经腐烂。"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.SUGARSICKNESS.TOAST_BODY
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.SUGARSICKNESS.TOAST_BODY"
+msgid "Oh no! Everyone ate too much candy, and got an upset stomach."
+msgstr "糟糕！大家吃太多糖果了，肚子都不舒服。"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.TRICKORTREAT.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.TRICKORTREAT.NAME"
+msgid "Trick Or Treat!"
+msgstr "不给糖就捣蛋！"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.TRICKORTREAT.TREAT
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.TRICKORTREAT.TREAT"
+msgid "TREAT!"
+msgstr "糖果！"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.TRICKORTREAT.TRICK
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.TRICKORTREAT.TRICK"
+msgid "TRICK!"
+msgstr "捣蛋！"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.TRIPLEBOX.TOAST_BODY
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN.TWITCHEVENTS.TRIPLEBOX.TOAST_BODY"
+msgid "Surprise Boxes X3!"
+msgstr "惊喜宝箱 ×3！"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_BONUS.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_BONUS.TITLE"
+msgid "Ghastly efficiency bonus (%)"
+msgstr "幽灵形态效率加成（%）"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_BONUS.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_BONUS.TOOLTIP"
+msgid "Work speed bonus while in ghastly form."
+msgstr "幽灵形态下的工作速度加成。"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_LOOKS.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_LOOKS.TITLE"
+msgid "Ghastly look"
+msgstr "幽灵外观"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_LOOKS.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_LOOKS.TOOLTIP"
+msgid "Should ghastly dupes look ghastly."
+msgstr "幽灵形态的复制人是否显示幽灵外观。"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_STRESS_BONUS.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_STRESS_BONUS.TITLE"
+msgid "Ghastly stress relief (%)"
+msgstr "幽灵形态压力缓解（%）"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_STRESS_BONUS.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHASTLY_STRESS_BONUS.TOOLTIP"
+msgid "Stress reduction bonus while in ghastly form"
+msgstr "幽灵形态下的压力减轻加成。"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHOSTPIP_LIGHT.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHOSTPIP_LIGHT.TITLE"
+msgid "Suspicious Pip emits Light"
+msgstr "幽灵皮普会发光"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHOSTPIP_LIGHT.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.GHOSTPIP_LIGHT.TOOLTIP"
+msgid "If true, the Suspicious Pip will emit some light."
+msgstr "若启用，幽灵皮普会发出微光。"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.ROT.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.ROT.TITLE"
+msgid "Use rot for fertilizer"
+msgstr "使用腐烂物作肥料"
+
+#. SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.ROT.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.SPOOKYPUMPKIN_MODSETTINGS.ROT.TOOLTIP"
+msgid "If true, pumpkin plants will use Rot along Dirt for fertilization."
+msgstr "若启用，南瓜植物将同时使用腐烂物和泥土进行施肥。"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.FRIENDLYPUMPKIN_SIDE_SCREEN.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.FRIENDLYPUMPKIN_SIDE_SCREEN.TITLE"
+msgid "Friendly Lantern Face"
+msgstr "友善南瓜灯表情"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_ACTIVE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_ACTIVE"
+msgid "Answer mysterious call"
+msgstr "回应神秘呼唤"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_INACTIVE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_INACTIVE"
+msgid "Pip called"
+msgstr "皮普已召唤"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP"
+msgid "Spooky squeaks are whispered through the receiver... "
+msgstr "从听筒中传来了诡异的吱吱声……"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP_INACTIVE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP_INACTIVE"
+msgid "Pip spawned."
+msgstr "皮普已出现。"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CANCELBUTTON
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CANCELBUTTON"
+msgid "Cancel"
+msgstr "取消"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CONFIRM
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CONFIRM"
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL"
+msgid "Wants one {Item}"
+msgstr "想要一个 {Item}"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL2
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL2"
+msgid "Delivering {Item}"
+msgstr "正在递送 {Item}"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.MESSAGE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.MESSAGE"
+msgid "This suspicious pip looks like it wants some treats."
+msgstr "这个可疑的皮普看起来想要点好吃的。"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SEND_AWAY
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SEND_AWAY"
+msgid "Send {Name} away forever"
+msgstr "永远驱逐 {Name}"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SHOO
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SHOO"
+msgid "Shoo Away"
+msgstr "赶走"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TITLE"
+msgid "Suspicious Pip"
+msgstr "可疑皮普"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TREATBUTTON
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TREATBUTTON"
+msgid "Deliver Treat"
+msgstr "递送糖果"

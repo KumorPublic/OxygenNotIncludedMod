@@ -1,0 +1,786 @@
+
+#. Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_ELECTROLYZERINVERTED.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_ELECTROLYZERINVERTED.DESC"
+msgid "Inverted Water goes in one end, life sustaining oxygen comes out the other."
+msgstr "倒置水从一端进入，维持生命的氧气从另一端出来。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_ELECTROLYZERINVERTED.EFFECT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_ELECTROLYZERINVERTED.EFFECT"
+msgid "Converts <link=\"ITCEINVERSEWATER\">       <rotate=180>Water</rotate></link> into <link=\"OXYGEN\">Oxygen</link> and <link=\"HYDROGEN\">Hydrogen Gas</link>.\n\nBecomes idle when the area reaches maximum pressure capacity."
+msgstr "将<link=\"ITCEINVERSEWATER\">       <rotate=180>水</rotate></link>转化为<link=\"OXYGEN\">氧气</link>和<link=\"HYDROGEN\">氢气</link>。\n\n当区域达到最大压力时停止工作。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_ELECTROLYZERINVERTED.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_ELECTROLYZERINVERTED.NAME"
+msgid "<link=\"ITCEELECTROLYZERINVERTED\">Flipped Electrolyzer</link>"
+msgstr "<link=\"ITCEELECTROLYZERINVERTED\">倒置电解器</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_WATERPURIFIERINVERTED.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_WATERPURIFIERINVERTED.DESC"
+msgid "Sieves cannot kill germs and pass any they receive into their waste and water output."
+msgstr "过滤器无法杀死细菌，所有细菌都会进入废物和水输出。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_WATERPURIFIERINVERTED.EFFECT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_WATERPURIFIERINVERTED.EFFECT"
+msgid "Produces clean <link=\"WATER\">Water</link> from <link=\"ITCEINVERSEWATER\">       <rotate=180>Water</rotate></link>.\n\nProduces traces of <link=\"UNOBTANIUM\">中子质</link>."
+msgstr "将<link=\"ITCEINVERSEWATER\">       <rotate=180>水</rotate></link>净化为<link=\"WATER\">清水</link>。\n\n会产生少量<link=\"UNOBTANIUM\">中子质</link>。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_WATERPURIFIERINVERTED.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.ITCE_WATERPURIFIERINVERTED.NAME"
+msgid "<link=\"ITCEWATERPURIFIERINVERTED\">Flipped Water Sieve</link>"
+msgstr "<link=\"ITCEWATERPURIFIERINVERTED\">倒置水筛</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.WATERCOOLER.OPTION_TOOLTIPS.ITCE_INVERSE_WATER
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.BUILDINGS.PREFABS.WATERCOOLER.OPTION_TOOLTIPS.ITCE_INVERSE_WATER"
+msgid "<link=\"ITCEINVERSEWATER\">       <rotate=180>Water</rotate></link>\nAww yeah, this drink is flippin' good!"
+msgstr "<link=\"ITCEINVERSEWATER\">       <rotate=180>水</rotate></link>\n哇，这饮料真是太棒了！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FAKE_TACORAIN_DURATION_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FAKE_TACORAIN_DURATION_NAME"
+msgid "triggerable ghostly Taco Rain duration in s"
+msgstr "可触发的幽灵玉米卷雨持续时间（秒）"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FAKE_TACORAIN_DURATION_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FAKE_TACORAIN_DURATION_TOOLTIP"
+msgid "How long should the triggerable Taco Rain last (in seconds)."
+msgstr "可触发的玉米卷雨应持续多长时间（秒）。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FAKE_TACORAIN_MUSIC_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FAKE_TACORAIN_MUSIC_NAME"
+msgid "Music on triggerable ghostly Taco Rain"
+msgstr "可触发幽灵玉米卷雨的音乐"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FAKE_TACORAIN_MUSIC_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FAKE_TACORAIN_MUSIC_TOOLTIP"
+msgid "During the triggerable Taco Rain the song \"Raining Tacos - Parry Gripp & BooneBum\" gets played.\nDisable this option here to mute it."
+msgstr "在可触发的玉米卷雨期间会播放“Raining Tacos - Parry Gripp & BooneBum”。\n在此禁用该选项可静音。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FOG_DURATION_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FOG_DURATION_NAME"
+msgid "Fog Duration in cycles"
+msgstr "雾气持续周期数"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FOG_DURATION_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.FOG_DURATION_TOOLTIP"
+msgid "How long should the Fog from fog event last (wont go lower than 1)."
+msgstr "雾气事件持续多长时间（不会低于1周期）。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.SHOW_WARNINGS
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.SHOW_WARNINGS"
+msgid "Show Warnings"
+msgstr "显示警告"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.SHOW_WARNINGS_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.SHOW_WARNINGS_TOOLTIP"
+msgid "Certain events will warn you before they hit"
+msgstr "某些事件会在发生前警告你"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.SKIP_MIN_CYCLE
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.SKIP_MIN_CYCLE"
+msgid "Skip minimum cycle requirements"
+msgstr "跳过最小周期要求"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.SKIP_MIN_CYCLE_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.SKIP_MIN_CYCLE_TOOLTIP"
+msgid "Events lose their minimum cycle requirements."
+msgstr "事件将不再有最小周期要求。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.TACORAIN_MUSIC_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.TACORAIN_MUSIC_NAME"
+msgid "Music on Taco Rain Event"
+msgstr "玉米卷雨事件音乐"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.TACORAIN_MUSIC_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOS_CONFIG.TACORAIN_MUSIC_TOOLTIP"
+msgid "During the twitch event \"Taco Rain\", the song \"Raining Tacos - Parry Gripp & BooneBum\" gets played.\nDisable this option here to mute it."
+msgstr "在Twitch事件“玉米卷雨”期间会播放“Raining Tacos - Parry Gripp & BooneBum”。\n在此禁用该选项可静音。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BEEVOLCANO.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BEEVOLCANO.NAME"
+msgid "Beeyzer"
+msgstr "蜂间歇泉"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BEEVOLCANO.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BEEVOLCANO.TOAST"
+msgid "Its a Bee Geyser!"
+msgstr "这是一个蜂间歇泉！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BEEVOLCANO.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BEEVOLCANO.TOASTTEXT"
+msgid "What a nice looking geyser..\nWait... BEES???"
+msgstr "多漂亮的间歇泉……\n等等……蜜蜂？？？"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BURNINGCURSOR.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BURNINGCURSOR.NAME"
+msgid "Burning Cursor"
+msgstr "燃烧的光标"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BURNINGCURSOR.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BURNINGCURSOR.TOAST"
+msgid "Burning Cursor"
+msgstr "燃烧的光标"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BURNINGCURSOR.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BURNINGCURSOR.TOASTTEXT"
+msgid "The mouse cursor has caught fire!"
+msgstr "鼠标光标着火了！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BURNINGCURSOR.TOASTTEXTENDING
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BURNINGCURSOR.TOASTTEXTENDING"
+msgid "The mouse cursor has been extinguished"
+msgstr "鼠标光标已被扑灭"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BUZZSAW.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BUZZSAW.NAME"
+msgid "Omega Sawblade"
+msgstr "欧米伽锯刃"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BUZZSAW.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BUZZSAW.TOAST"
+msgid "Omega Sawblade"
+msgstr "欧米伽锯刃"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BUZZSAW.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.BUZZSAW.TOASTTEXT"
+msgid "Keep that cursor dancing :]"
+msgstr "让你的光标跳起来 :]"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CHEESEBACKWALLTRIGGERED.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CHEESEBACKWALLTRIGGERED.TOAST"
+msgid "Woops"
+msgstr "哎呀"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CHEESEBACKWALLTRIGGERED.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CHEESEBACKWALLTRIGGERED.TOASTTEXT"
+msgid "You really tried cheesing that?!"
+msgstr "你真的想用漏洞吗？！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPEREATINGBOI.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPEREATINGBOI.NAME"
+msgid "Green Boi"
+msgstr "绿色小子"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPEREATINGBOI.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPEREATINGBOI.TOAST"
+msgid "Green Boi"
+msgstr "绿色小子"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPEREATINGBOI.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPEREATINGBOI.TOASTTEXT"
+msgid "Hi!"
+msgstr "嗨！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPERRAIN.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPERRAIN.NAME"
+msgid "Creeper Rain"
+msgstr "爬行者雨"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPERRAIN.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPERRAIN.TOAST"
+msgid "Creeper Rain"
+msgstr "爬行者雨"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPERRAIN.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPERRAIN.TOASTTEXT"
+msgid "ALARM!\nThe Creeper is about to arrive on {0}"
+msgstr "警报！\n爬行者即将在{0}到来"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPERRAIN.TOASTTEXT2
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.CREEPERRAIN.TOASTTEXT2"
+msgid "The Creeper has arrived on {0}!"
+msgstr "爬行者已在{0}到达！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.DEADLYELEMENTCREEPER.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.DEADLYELEMENTCREEPER.NAME"
+msgid "Beeyzer"
+msgstr "蜂间歇泉"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.DEADLYELEMENTCREEPER.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.DEADLYELEMENTCREEPER.TOAST"
+msgid "Its a Bee Geyser!"
+msgstr "这是一个蜂间歇泉！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.DEADLYELEMENTCREEPER.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.DEADLYELEMENTCREEPER.TOASTTEXT"
+msgid "What a nice looking geyser..\nWait... BEES???"
+msgstr "多漂亮的间歇泉……\n等等……蜜蜂？？？"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.FOG.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.FOG.NAME"
+msgid "Fog"
+msgstr "雾"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.FOG.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.FOG.TOAST"
+msgid "Fog"
+msgstr "雾"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.FOG.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.FOG.TOASTTEXT"
+msgid "Bloody hell, it's foggy innit"
+msgstr "天啊，雾气真大"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.FOG.TOASTTEXTENDING
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.FOG.TOASTTEXTENDING"
+msgid "The fog is starting to clear."
+msgstr "雾气开始消散了。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HAIRLOSS.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HAIRLOSS.NAME"
+msgid "Balding Dupes"
+msgstr "秃头复制人"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HAIRLOSS.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HAIRLOSS.TOAST"
+msgid "The Great Hair Robbery"
+msgstr "大头发劫案"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HAIRLOSS.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HAIRLOSS.TOASTTEXT"
+msgid "All duplicants have lost their hair!"
+msgstr "所有复制人都掉头发了！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.EVENTFAIL
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.EVENTFAIL"
+msgid "Not enough food was available to attract any roaches."
+msgstr "没有足够的食物吸引蟑螂。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.NAME"
+msgid "Roach Infestation"
+msgstr "蟑螂侵扰"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.TOAST"
+msgid "Roach Infestation!"
+msgstr "蟑螂侵扰！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.TOASTTEXT"
+msgid "Your kitchen fridge, it holds some pastry\nthe roaches come, it looks them tasty!\n\nHungry roaches ate 50% of your food supply on {0}."
+msgstr "你的厨房冰箱里有些糕点\n蟑螂来了，它们觉得很美味！\n\n饥饿的蟑螂在{0}吃掉了你50%的食物储备。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.TOASTTEXTALTERNATIVE
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.HUNGRYROACHES.TOASTTEXTALTERNATIVE"
+msgid "Hungry roaches have taken a liking to your food supply on {0}."
+msgstr "饥饿的蟑螂在{0}盯上了你的食物储备。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.INVERSEELEMENT.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.INVERSEELEMENT.NAME"
+msgid "Doolf"
+msgstr "倒流"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.INVERSEELEMENT.NEW_BUILDINGS
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.INVERSEELEMENT.NEW_BUILDINGS"
+msgid "{0} New buildings have been unlocked!"
+msgstr "已解锁{0}个新建筑！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.INVERSEELEMENT.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.INVERSEELEMENT.TOAST"
+msgid "Doolf!"
+msgstr "倒流！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.INVERSEELEMENT.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.INVERSEELEMENT.TOASTTEXT"
+msgid "Something is off with this..."
+msgstr "这里有些不对劲……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.MOPED.MOPEDTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.MOPED.MOPEDTEXT"
+msgid "Moped "
+msgstr "摩托 "
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.MOPED.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.MOPED.NAME"
+msgid "Moped"
+msgstr "摩托"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.MOPED.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.MOPED.TOAST"
+msgid "Moped!"
+msgstr "摩托！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.MOPED.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.MOPED.TOASTTEXT"
+msgid "Moped!"
+msgstr "摩托！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.RAINBOWLIQUIDS.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.RAINBOWLIQUIDS.NAME"
+msgid "Rainbow Rave"
+msgstr "彩虹狂欢"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.RAINBOWLIQUIDS.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.RAINBOWLIQUIDS.TOAST"
+msgid "Rainbow Rave"
+msgstr "彩虹狂欢"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.RAINBOWLIQUIDS.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.RAINBOWLIQUIDS.TOASTTEXT"
+msgid "All Liquids are throwing a rainbow party!"
+msgstr "所有液体都在举办彩虹派对！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SHART.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SHART.NAME"
+msgid "Shart"
+msgstr "失禁"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SHART.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SHART.TOAST"
+msgid "Shart"
+msgstr "失禁"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SHART.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SHART.TOASTTEXT"
+msgid "All Duplicants have sharted. What was in that Frost Burger?"
+msgstr "所有复制人都失禁了。那个冰霜汉堡里到底有什么？"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPACECHEESEDETECTED.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPACECHEESEDETECTED.TOAST"
+msgid "Yuck, Space"
+msgstr "呃，太空"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPACECHEESEDETECTED.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPACECHEESEDETECTED.TOASTTEXT"
+msgid "{0} really didnt like to be in space,\nso it appeared on {1} instead"
+msgstr "{0}真的不喜欢待在太空，\n所以它出现在了{1}。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.INQUISITION_MEMBER_1
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.INQUISITION_MEMBER_1"
+msgid "Cardinal Ximenez"
+msgstr "希梅内斯红衣主教"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.INQUISITION_MEMBER_2
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.INQUISITION_MEMBER_2"
+msgid "Cardinal Biggles"
+msgstr "比格尔斯红衣主教"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.INQUISITION_MEMBER_3
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.INQUISITION_MEMBER_3"
+msgid "Cardinal Fang"
+msgstr "方红衣主教"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.NAME"
+msgid "Something Unexpected"
+msgstr "意想不到的事情"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.TOAST"
+msgid "What did you expect?"
+msgstr "你期待什么？"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.TOASTTEXT"
+msgid "Nobody expects the spanish inquisition!"
+msgstr "没人会想到西班牙宗教裁判所！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.TRAIT_DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.TRAIT_DESC"
+msgid "This Duplicant is a member of the spanish inquisition - how unexpected!"
+msgstr "该复制人是西班牙宗教裁判所成员——真是意想不到！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.TRAIT_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.SPANISHINQUISITION.TRAIT_NAME"
+msgid "Inquisition Member"
+msgstr "宗教裁判所成员"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.CONSUME_FAILURE
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.CONSUME_FAILURE"
+msgid "The void failed to consume {0}, they will live for another day..."
+msgstr "虚空未能吞噬{0}，他们还能再活一天……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.CONSUME_SUCCESS
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.CONSUME_SUCCESS"
+msgid "The void has consumed {0} and is satisfied.. for now..."
+msgstr "虚空吞噬了{0}，暂时满足了……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.NAME"
+msgid "Void Incantation"
+msgstr "虚空咒语"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.TOAST"
+msgid "The Void hungers"
+msgstr "虚空在渴望"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.TOASTTEXT"
+msgid "{0} has stared too deep into the Void\nThe Void has awoken\nThe Void stares back into {0}\nThe Void hungers\nThe Void will consume"
+msgstr "{0}凝视虚空太久\n虚空已觉醒\n虚空也在凝视{0}\n虚空在渴望\n虚空将会吞噬"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.VOID_DAMAGE
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.STAREDINTOTHEVOID.VOID_DAMAGE"
+msgid "Void Damage"
+msgstr "虚空伤害"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.TACORAIN.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.TACORAIN.NAME"
+msgid "Taco Rain"
+msgstr "玉米卷雨"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.TACORAIN.NEWRECIPE
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.TACORAIN.NEWRECIPE"
+msgid "\n\nThere is also a new recipe in the Gas Range."
+msgstr "\n\n气体灶台上还有一个新配方。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.TACORAIN.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.TACORAIN.TOAST"
+msgid "Taco Rain!"
+msgstr "玉米卷雨！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.TACORAIN.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.TACORAIN.TOASTTEXT"
+msgid "It's raining Tacos!"
+msgstr "天上下玉米卷啦！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.VERYEVILTREE.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.VERYEVILTREE.NAME"
+msgid "Yggdrasil"
+msgstr "世界树"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.VERYEVILTREE.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.VERYEVILTREE.TOASTTEXT"
+msgid "The Seed of Yggdrasil has sprouted!"
+msgstr "世界树的种子已经发芽！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WEATHERFORECAST.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WEATHERFORECAST.NAME"
+msgid "Weather Forecast"
+msgstr "天气预报"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WEATHERFORECAST.TOAST
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WEATHERFORECAST.TOAST"
+msgid "Weather Forecasted"
+msgstr "天气已预报"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WEATHERFORECAST.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WEATHERFORECAST.TOASTTEXT"
+msgid "the forecasted weather is {0}"
+msgstr "预报的天气是{0}"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WORKERSTRIKE.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WORKERSTRIKE.NAME"
+msgid "Worker Strike"
+msgstr "工人罢工"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WORKERSTRIKE.TOASTTEXT
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WORKERSTRIKE.TOASTTEXT"
+msgid "The Dupe Workers Union (DWU) has called for a general strike!"
+msgstr "复制人工会（DWU）已发起全面罢工！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WORKERSTRIKE.TOASTTEXT_END
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CHAOSEVENTS.WORKERSTRIKE.TOASTTEXT_END"
+msgid "Having voiced their demands to a sufficient degree, the duplicants have ended their strike."
+msgstr "在充分表达诉求后，复制人们结束了罢工。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.COMETS.ITC_GHOSTTACOCOMET.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.COMETS.ITC_GHOSTTACOCOMET.DESC"
+msgid "A semitranslucent image of flying taco, it still looks delicious!"
+msgstr "半透明的飞行玉米卷图像，看起来依然美味！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.COMETS.ITC_GHOSTTACOCOMET.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.COMETS.ITC_GHOSTTACOCOMET.NAME"
+msgid "<link=\"ITCTACOCOMET\">Ghostly Flying Taco</link>"
+msgstr "<link=\"ITCTACOCOMET\">幽灵飞行玉米卷</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.COMETS.ITC_TACOCOMET.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.COMETS.ITC_TACOCOMET.DESC"
+msgid "A flying taco, it looks delicious!"
+msgstr "飞行的玉米卷，看起来很美味！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.COMETS.ITC_TACOCOMET.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.COMETS.ITC_TACOCOMET.NAME"
+msgid "<link=\"ITCTACOCOMET\">Flying Taco</link>"
+msgstr "<link=\"ITCTACOCOMET\">飞行玉米卷</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CREATURES.SPECIES.ITCE_CREEPEREATER.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CREATURES.SPECIES.ITCE_CREEPEREATER.DESC"
+msgid "A green friend that LOVES to consume the Creeper"
+msgstr "一个喜欢吃爬行者的绿色朋友"
+
+#. Imalas_TwitchChaosEvents.STRINGS.CREATURES.SPECIES.ITCE_CREEPEREATER.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.CREATURES.SPECIES.ITCE_CREEPEREATER.NAME"
+msgid "<link=\"ITCECREEPEREATER\">Green Friend</link>"
+msgstr "<link=\"ITCECREEPEREATER\">绿色朋友</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.MODIFIERS.ITCE_INVERSE_WATER_DRINK.DESCRIPTION
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.MODIFIERS.ITCE_INVERSE_WATER_DRINK.DESCRIPTION"
+msgid "This duplicant consumed\n<link=\"ITCEINVERSEWATER\">       <rotate=180>Water</rotate></link>"
+msgstr "该复制人喝下了\n<link=\"ITCEINVERSEWATER\">       <rotate=180>水</rotate></link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.MODIFIERS.ITCE_INVERSE_WATER_DRINK.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.MODIFIERS.ITCE_INVERSE_WATER_DRINK.NAME"
+msgid "Flipped"
+msgstr "倒置"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.MODIFIERS.ITCE_INVERSE_WATER_DRINK.TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.MODIFIERS.ITCE_INVERSE_WATER_DRINK.TOOLTIP"
+msgid "This duplicant consumed\n<link=\"ITCEINVERSEWATER\">       <rotate=180>Water</rotate></link>"
+msgstr "该复制人喝下了\n<link=\"ITCEINVERSEWATER\">       <rotate=180>水</rotate></link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT.NAME"
+msgid "Creeping Burns"
+msgstr "爬行灼伤"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT.NOTIFICATION_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT.NOTIFICATION_NAME"
+msgid "Creeping Burns"
+msgstr "爬行灼伤"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT.NOTIFICATION_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT.NOTIFICATION_TOOLTIP"
+msgid "The Creeper burns to the touch!"
+msgstr "爬行者接触会灼伤！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT.TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT.TOOLTIP"
+msgid "The Creeper burns to the touch!"
+msgstr "爬行者接触会灼伤！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT_VOID.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT_VOID.NAME"
+msgid "Void Touch"
+msgstr "虚空之触"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT_VOID.NOTIFICATION_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT_VOID.NOTIFICATION_NAME"
+msgid "Void Touch"
+msgstr "虚空之触"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT_VOID.NOTIFICATION_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT_VOID.NOTIFICATION_TOOLTIP"
+msgid "The Void consumes!"
+msgstr "虚空吞噬一切！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT_VOID.TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_HURTINGELEMENT_VOID.TOOLTIP"
+msgid "The Void consumes!"
+msgstr "虚空吞噬一切！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.NAME"
+msgid "Striking"
+msgstr "罢工中"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.NOTIFICATION_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.NOTIFICATION_NAME"
+msgid "Striking"
+msgstr "罢工中"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.NOTIFICATION_TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.NOTIFICATION_TOOLTIP"
+msgid "This duplicant is on strike!\n\nDemand: {0}"
+msgstr "该复制人正在罢工！\n\n诉求：{0}"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_0
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_0"
+msgid "More time off!"
+msgstr "更多休息时间！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_1
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_1"
+msgid "Less dangerous task assignments!"
+msgstr "减少危险任务分配！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_2
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_2"
+msgid "higher quality food!"
+msgstr "更高质量的食物！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_3
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_3"
+msgid "better decor!"
+msgstr "更好的装饰！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_4
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_4"
+msgid "include oxygen!"
+msgstr "要有氧气！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_5
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_5"
+msgid "fish!"
+msgstr "鱼！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_6
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.STRIKE_REASON_6"
+msgid "Lick the Pufts!"
+msgstr "舔泡浮兽！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.TOOLTIP
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.DUPLICANTS.STATUSITEMS.ITCE_WORKERSTRIKE.TOOLTIP"
+msgid "This duplicant is on strike!\n\nDemand: {0}"
+msgstr "该复制人正在罢工！\n\n诉求：{0}"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_CREEPYLIQUID.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_CREEPYLIQUID.DESC"
+msgid "The Creeper.\nDeadly to all living things\n\nWeak to the cold.\nHighly Flammable."
+msgstr "爬行者。\n对所有生物致命\n\n惧怕寒冷。\n高度易燃。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_CREEPYLIQUID.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_CREEPYLIQUID.NAME"
+msgid "<link=\"ITCECREEPYLIQUID\">Creeper</link>"
+msgstr "<link=\"ITCECREEPYLIQUID\">爬行者</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_CREEPYLIQUIDGAS.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_CREEPYLIQUIDGAS.DESC"
+msgid "the ever extending tendril of the creeper"
+msgstr "爬行者不断延伸的触须"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_CREEPYLIQUIDGAS.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_CREEPYLIQUIDGAS.NAME"
+msgid "<link=\"ITCECREEPYLIQUIDGAS\">Creeper Tendril</link>"
+msgstr "<link=\"ITCECREEPYLIQUIDGAS\">爬行者触须</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_ICE.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_ICE.DESC"
+msgid "weird Ice..."
+msgstr "奇怪的冰……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_ICE.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_ICE.NAME"
+msgid "<link=\"ITCEINVERSEICE\">       <rotate=180>Ice</rotate></link>"
+msgstr "<link=\"ITCEINVERSEICE\">       <rotate=180>冰</rotate></link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_STEAM.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_STEAM.DESC"
+msgid "weird Steam..."
+msgstr "奇怪的蒸汽……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_STEAM.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_STEAM.NAME"
+msgid "<link=\"ITCEINVERSESTEAM\">       <rotate=180>Steam</rotate></link>"
+msgstr "<link=\"ITCEINVERSESTEAM\">       <rotate=180>蒸汽</rotate></link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_WATER.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_WATER.DESC"
+msgid "weird Water..."
+msgstr "奇怪的水……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_WATER.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_WATER.NAME"
+msgid "<link=\"ITCEINVERSEWATER\">       <rotate=180>Water</rotate></link>"
+msgstr "<link=\"ITCEINVERSEWATER\">       <rotate=180>水</rotate></link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_WATER.RECIPE_DESCRIPTION
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_WATER.RECIPE_DESCRIPTION"
+msgid "Deny that what must not be.."
+msgstr "否定不该存在的东西……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_WATER.RECIPE_DESCRIPTION_CREATE
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_INVERSE_WATER.RECIPE_DESCRIPTION_CREATE"
+msgid "Embrace that what must not be!"
+msgstr "拥抱不该存在的东西！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_LIQUID_POOP.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_LIQUID_POOP.DESC"
+msgid "It smells as bad as it looks..."
+msgstr "闻起来和看起来一样糟糕……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_LIQUID_POOP.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_LIQUID_POOP.NAME"
+msgid "<link=\"ITCELIQUIDPOOP\">Liquid Poop</link>"
+msgstr "<link=\"ITCELIQUIDPOOP\">液体便便</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_VOIDLIQUID.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_VOIDLIQUID.DESC"
+msgid "The void hungers"
+msgstr "虚空在渴望"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_VOIDLIQUID.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ELEMENTS.ITCE_VOIDLIQUID.NAME"
+msgid "<link=\"ITCEVOIDLIQUID\">Void</link>"
+msgstr "<link=\"ITCEVOIDLIQUID\">虚空</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ENTITIES.GEYSERS.ITCE_BEEGEYSER.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ENTITIES.GEYSERS.ITCE_BEEGEYSER.DESC"
+msgid "Not the Bees, NOT THE BEES.."
+msgstr "不是蜜蜂，不要蜜蜂……"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ENTITIES.GEYSERS.ITCE_BEEGEYSER.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ENTITIES.GEYSERS.ITCE_BEEGEYSER.NAME"
+msgid "<link=\"ITCEBEEGEYSER\">Bee Geyser</link>"
+msgstr "<link=\"ITCEBEEGEYSER\">蜂间歇泉</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.EQUIPMENT.PREFABS.ITCE_MOPED.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.EQUIPMENT.PREFABS.ITCE_MOPED.DESC"
+msgid "Moped Moped Moped Moped Moped Moped Moped Moped Moped Moped"
+msgstr "摩托 摩托 摩托 摩托 摩托 摩托 摩托 摩托 摩托 摩托"
+
+#. Imalas_TwitchChaosEvents.STRINGS.EQUIPMENT.PREFABS.ITCE_MOPED.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.EQUIPMENT.PREFABS.ITCE_MOPED.NAME"
+msgid "<link=\"ITCEMOPED\">Moped</link>"
+msgstr "<link=\"ITCEMOPED\">摩托</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.HOTKEYACTIONS.TRIGGER_FAKE_TACORAIN_NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.HOTKEYACTIONS.TRIGGER_FAKE_TACORAIN_NAME"
+msgid "Trigger a ghostly Taco Rain"
+msgstr "触发幽灵玉米卷雨"
+
+#. Imalas_TwitchChaosEvents.STRINGS.HOTKEYACTIONS.UNLOCK_TACO_RECIPE
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.HOTKEYACTIONS.UNLOCK_TACO_RECIPE"
+msgid "Manually unlock Taco Recipe"
+msgstr "手动解锁玉米卷配方"
+
+#. Imalas_TwitchChaosEvents.STRINGS.HOTKEYACTIONS.UNLOCK_TACO_RECIPE_BODY
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.HOTKEYACTIONS.UNLOCK_TACO_RECIPE_BODY"
+msgid "The Taco recipe has been unlocked in the Gas Range"
+msgstr "气体灶台已解锁玉米卷配方"
+
+#. Imalas_TwitchChaosEvents.STRINGS.HOTKEYACTIONS.UNLOCK_TACO_RECIPE_TITLE
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.HOTKEYACTIONS.UNLOCK_TACO_RECIPE_TITLE"
+msgid "Tacos!"
+msgstr "玉米卷！"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO.DESC"
+msgid "A staple meal that provides vital nutrients and energy to those who consume it."
+msgstr "一种为食用者提供重要营养和能量的主食。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO.DESC_DEHYDRATED
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO.DESC_DEHYDRATED"
+msgid "A staple meal that provides vital nutrients and energy to those who consume it, reduced to a preserving brick."
+msgstr "为食用者提供重要营养和能量的主食，被制成了保存砖块。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO.NAME"
+msgid "<link=\"ICTTACO\">Taco</link>"
+msgstr "<link=\"ICTTACO\">玉米卷</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO.NAME_DEHYDRATED
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO.NAME_DEHYDRATED"
+msgid "<link=\"ICTTACO\">Dehydrated Taco</link>"
+msgstr "<link=\"ICTTACO\">脱水玉米卷</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO_NONSPOILING.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO_NONSPOILING.DESC"
+msgid "A staple meal that provides vital nutrients and energy to those who consume it.\nFallen from the sky, it does not spoil for some reason."
+msgstr "一种为食用者提供重要营养和能量的主食。\n从天而降，不知为何不会腐坏。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO_NONSPOILING.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.FOOD.ICT_TACO_NONSPOILING.NAME"
+msgid "<link=\"ICTTACONONSPOILING\">Space Taco</link>"
+msgstr "<link=\"ICTTACONONSPOILING\">太空玉米卷</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.ICT_GHOSTTACO.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.ICT_GHOSTTACO.DESC"
+msgid "A semitranslucent image of a delicious Taco.\nSoon it will fade away"
+msgstr "美味玉米卷的半透明影像。\n很快就会消失"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.ICT_GHOSTTACO.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.ICT_GHOSTTACO.NAME"
+msgid "<link=\"ICTGHOSTTACO\">Ghostly Taco</link>"
+msgstr "<link=\"ICTGHOSTTACO\">幽灵玉米卷</link>"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.ICT_OMEGASAWBLADE.DESC
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.ICT_OMEGASAWBLADE.DESC"
+msgid "Bzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.\nHomes onto living beings and the mouse cursor."
+msgstr "嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡。\n追踪生物和鼠标光标。"
+
+#. Imalas_TwitchChaosEvents.STRINGS.ITEMS.ICT_OMEGASAWBLADE.NAME
+msgctxt "Imalas_TwitchChaosEvents.STRINGS.ITEMS.ICT_OMEGASAWBLADE.NAME"
+msgid "<link=\"ICTOMEGASAWBLADE\">Omega Sawblade</link>"
+msgstr "<link=\"ICTOMEGASAWBLADE\">欧米伽锯刃</link>"
+

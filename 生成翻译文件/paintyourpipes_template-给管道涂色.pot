@@ -1,0 +1,42 @@
+
+#. PaintYourPipes.STRINGS.HOTKEYACTIONS.TOGGLE_OVERLAY_COLOR
+msgctxt "PaintYourPipes.STRINGS.HOTKEYACTIONS.TOGGLE_OVERLAY_COLOR"
+msgid "Toggle Color in Overlays"
+msgstr "切换覆盖层颜色"
+
+#. PaintYourPipes.STRINGS.MODCONFIG.OVERLAYONLYDESC
+msgctxt "PaintYourPipes.STRINGS.MODCONFIG.OVERLAYONLYDESC"
+msgid "Only show colors in overlays"
+msgstr "仅在覆盖层显示颜色"
+
+#. PaintYourPipes.STRINGS.MODCONFIG.OVERLAYONLYNAME
+msgctxt "PaintYourPipes.STRINGS.MODCONFIG.OVERLAYONLYNAME"
+msgid "Paint Overlays Only"
+msgstr "仅涂覆盖层"
+
+#. PaintYourPipes.STRINGS.PAINTABLEBUILDING.LABEL
+msgctxt "PaintYourPipes.STRINGS.PAINTABLEBUILDING.LABEL"
+msgid "Paint whole network"
+msgstr "涂整个管网"
+
+#. PaintYourPipes.STRINGS.PAINTABLEBUILDING.TITLE
+msgctxt "PaintYourPipes.STRINGS.PAINTABLEBUILDING.TITLE"
+msgid "Tint Colour"
+msgstr "着色颜色"
+
+#. PaintYourPipes.STRINGS.PAINTABLEBUILDING.TOGGLE_TEXT
+msgctxt "PaintYourPipes.STRINGS.PAINTABLEBUILDING.TOGGLE_TEXT"
+msgid "PAINT OVERLAYS"
+msgstr "涂覆盖层"
+
+#. PaintYourPipes.STRINGS.PAINTABLEBUILDING.TOGGLE_TOOLTIP
+msgctxt "PaintYourPipes.STRINGS.PAINTABLEBUILDING.TOGGLE_TOOLTIP"
+msgid "Toggle <b>Colors in Overlays</b>\n{Hotkey}"
+msgstr "切换 <b>覆盖层颜色</b>\n{Hotkey}"
+
+#. PaintYourPipes.STRINGS.PAINTABLEBUILDING.TOOLTIP
+msgctxt "PaintYourPipes.STRINGS.PAINTABLEBUILDING.TOOLTIP"
+msgid "Applies the colour of the currently selected item to its whole network."
+msgstr "将当前选中物品的颜色应用到整个管网。"
+
+

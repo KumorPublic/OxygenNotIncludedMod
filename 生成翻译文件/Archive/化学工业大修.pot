@@ -1,0 +1,941 @@
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDKILN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDKILN.DESC"
+msgid "An advanced insulated electrical kiln in which the heat is applied by induction heating of metal. The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating."
+msgstr "一种先进的绝缘电窑，通过金属感应加热来加热。感应窑的优点是与其他燃料加热方式相比，具有清洁、高效且易于控制的加热过程。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDKILN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDKILN.EFFECT"
+msgid "Adress a wide range of industrial and chemical applications."
+msgstr "适用于广泛的工业和化学应用。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDKILN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDKILN.NAME"
+msgid "Advanced Kiln"
+msgstr "先进窑炉"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDMETALREFINERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDMETALREFINERY.DESC"
+msgid "An improved refinery capable of bulk smelting process, as well exclusive metal production."
+msgstr "一种改进型精炼厂，能够进行大批量冶炼工艺，并可专门生产金属。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDMETALREFINERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDMETALREFINERY.EFFECT"
+msgid "An advanced method for production of <link=\"REFINEDMETAL\">Refined Metals</link> from raw <link=\"RAWMETAL\">Metal Ore</link>.\n\nSignificantly <link=\"HEAT\">Heats</link> and exclusively uses <link=\"SUPERCOOLANT\">Super Coolant</link> piped into it.\n\nDuplicants will not fabricate items unless recipes are queued."
+msgstr "一种先进的方法，可将原始<link=\"RAWMETAL\">金属矿石</link>生产为<link=\"REFINEDMETAL\">精炼金属</link>。\n\n会显著<link=\"HEAT\">加热</link>并且仅使用注入的<link=\"SUPERCOOLANT\">超级冷却剂</link>。\n\n只有在排队配方后复制人才会进行制造。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDMETALREFINERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ADVANCEDMETALREFINERY.NAME"
+msgid "Advanced Metal Refinery"
+msgstr "先进金属精炼厂"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_BALLCRUSHERMILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_BALLCRUSHERMILL.DESC"
+msgid "A large sized industrial mill that crushes raw ores using steel balls and special mixture of acids. Capable to process much more than the standar mill, as well more efficient in the extraction of valuable minerals from the raw more sludge."
+msgstr "一种大型工业磨机，利用钢球和特殊酸混合物粉碎原矿。处理能力远超标准磨机，并能更高效地从原矿泥中提取有价值的矿物。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_BALLCRUSHERMILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_BALLCRUSHERMILL.EFFECT"
+msgid "Crush down <link=\"RAWMINERAL\">Raw Minerals</link> in to useful materials and industrial ingredients."
+msgstr "将<link=\"RAWMINERAL\">原矿物</link>粉碎为有用材料和工业原料。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_BALLCRUSHERMILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_BALLCRUSHERMILL.NAME"
+msgid "Ball Crusher Mill"
+msgstr "球磨破碎机"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2PUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2PUMP.DESC"
+msgid "A fancy pump capable to detects Carbon Dioxide and pump it."
+msgstr "一种能够检测并抽取二氧化碳的高级泵。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2PUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2PUMP.EFFECT"
+msgid "Automatically detects trace of <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and extract it out of the surroudings."
+msgstr "可自动检测并抽取周围环境中的<link=\"CARBONDIOXIDE\">二氧化碳</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2PUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2PUMP.NAME"
+msgid "CO2 Filter"
+msgstr "二氧化碳过滤器"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2RECYCLERDLC1.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2RECYCLERDLC1.DESC"
+msgid "An autonomous chemical device capable of executing both Bosch and Sabatier Reactions based on the input conditions. "
+msgstr "一种可根据输入条件自动执行博世反应和萨巴蒂耶反应的化学装置。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2RECYCLERDLC1.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2RECYCLERDLC1.EFFECT"
+msgid "Sabatier Reaction: \n <link=\"LIQUIDCARBONDIOXIDE\">Liquid Carbon Dioxide</link>, <link=\"HYDROGEN\">Hydrogen</link> and <link=\"IRON\">Iron</link> as catalyst. The Sabatier Reaction produce <link=\"WATER\">Water</link>, <link=\"METHANE\">Natural Gas</link> and <link=\"RUST\">Rust</link> as waste product.\n\nBosch Reaction: \n<link=\"CARBONDIOXIDE\">Carbon Dioxide</link>, <link=\"HYDROGEN\">Hydrogen</link> and <link=\"IRON\">Iron</link> as catalyst. The Bosch Reaction produce <link=\"STEAM\">Steam</link>, <link=\"GRAPHITE\">Graphite</link> and <link=\"RUST\">Rust</link> as waste product."
+msgstr "萨巴蒂耶反应：\n以<link=\"LIQUIDCARBONDIOXIDE\">液态二氧化碳</link>、<link=\"HYDROGEN\">氢气</link>和<link=\"IRON\">铁</link>为催化剂。萨巴蒂耶反应会产生<link=\"WATER\">水</link>、<link=\"METHANE\">天然气</link>和<link=\"RUST\">铁锈</link>作为废弃物。\n\n博世反应：\n以<link=\"CARBONDIOXIDE\">二氧化碳</link>、<link=\"HYDROGEN\">氢气</link>和<link=\"IRON\">铁</link>为催化剂。博世反应会产生<link=\"STEAM\">蒸汽</link>、<link=\"GRAPHITE\">石墨</link>和<link=\"RUST\">铁锈</link>作为废弃物。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2RECYCLERDLC1.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CO2RECYCLERDLC1.NAME"
+msgid "Carbon Recycling Unit"
+msgstr "碳循环装置"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_COAL_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_COAL_BOILER.DESC"
+msgid "An industrial grade boiler that generates thermal energy by burning Coal."
+msgstr "一种工业级锅炉，通过燃烧煤炭产生热能。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_COAL_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_COAL_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses <link=\"CARBON\">Coal</link> as fuel."
+msgstr "将<link=\"WATER\">水</link>加热至200°C，转化为<link=\"STEAM\">蒸汽</link>。该锅炉以<link=\"CARBON\">煤炭</link>为燃料。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_COAL_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_COAL_BOILER.NAME"
+msgid "Coal-fueled Steam Boiler"
+msgstr "燃煤蒸汽锅炉"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CRUDEOILREFINERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CRUDEOILREFINERY.DESC"
+msgid "An industrial process plant responsible for refining raw oil extracted from wells."
+msgstr "一种工业加工厂，用于精炼从油井提取的原油。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CRUDEOILREFINERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CRUDEOILREFINERY.EFFECT"
+msgid "This refinement plant is capable of the following production from <link=\"CRUDEOIL\">Crude Oil</link>: \n- 50% <link=\"PETROLEUM\">Petroleum</link>\n- 25% <link=\"NAPHTHA\">Naphtha</link>\n- 10% <link=\"METHANE\">Natural Gas</link>\n- 10% <link=\"SOURWATER\">Sour Water</link> waste.\n- 5% <link=\"BITUMEN\">Bitumen</link> waste.\n\nThe process require <link=\"STEAM\">Steam</link> for the operation.\n\nIMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate."
+msgstr "该精炼厂可将<link=\"CRUDEOIL\">原油</link>加工为：\n- 50% <link=\"PETROLEUM\">石油</link>\n- 25% <link=\"NAPHTHA\">石脑油</link>\n- 10% <link=\"METHANE\">天然气</link>\n- 10% <link=\"SOURWATER\">酸性水</link>废液\n- 5% <link=\"BITUMEN\">沥青</link>废液\n\n该过程需要<link=\"STEAM\">蒸汽</link>。\n\n重要提示：建筑的所有管道端口必须与相应管道连接才能运行。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_CRUDEOILREFINERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_CRUDEOILREFINERY.NAME"
+msgid "Crude Oil Refinery"
+msgstr "原油精炼厂"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ELECTRICBOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ELECTRICBOILER.DESC"
+msgid "A small sized eletric boiler."
+msgstr "一种小型电锅炉。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ELECTRICBOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ELECTRICBOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 106 °C. This particular boiler uses electricity."
+msgstr "将<link=\"WATER\">水</link>加热至106°C，转化为<link=\"STEAM\">蒸汽</link>。该锅炉使用电力。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ELECTRICBOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ELECTRICBOILER.NAME"
+msgid "Electric Steam Boiler"
+msgstr "电加热蒸汽锅炉"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ENDOTHERMICUNIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ENDOTHERMICUNIT.DESC"
+msgid "A device that uses endothermical chemical reaction to cool itself and its surroundings."
+msgstr "一种利用吸热化学反应为自身及周围环境降温的装置。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ENDOTHERMICUNIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ENDOTHERMICUNIT.EFFECT"
+msgid "Creates an endothermical reaction from a mixture of <link=\"AMMONIUMSALT\">Nitrate Nodules</link> and <link=\"WATER\">Water</link>. \nOutputs <link=\"AMMONIUMWATER\">Ammonium Water</link> as result."
+msgstr "将<link=\"AMMONIUMSALT\">硝酸盐结块</link>与<link=\"WATER\">水</link>混合，产生吸热反应。\n产出<link=\"AMMONIUMWATER\">氨水</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_ENDOTHERMICUNIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_ENDOTHERMICUNIT.NAME"
+msgid "Endothermic Unit"
+msgstr "吸热装置"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_FLOCCULATIONSIEVE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_FLOCCULATIONSIEVE.DESC"
+msgid "A dedicated industrial sieve that flocculates colloidal particles out of suspension to sediment under the form of floc. Strong filter media further improves the cleaning process of liquids."
+msgstr "一种专用工业筛分器，可将胶体颗粒絮凝沉降为絮体。强力过滤介质进一步提升液体净化效果。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_FLOCCULATIONSIEVE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_FLOCCULATIONSIEVE.EFFECT"
+msgid "Treat <link=\"DIRTYWATER\">Polluted Water</link> or Toxic Slurry using special filter and chemicals. Sieve process also completely removes<link=\"DISEASE\">Germs</link>."
+msgstr "利用特殊滤材和化学品处理<link=\"DIRTYWATER\">污染水</link>或有毒泥浆。筛分过程还能彻底去除<link=\"DISEASE\">病菌</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_FLOCCULATIONSIEVE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_FLOCCULATIONSIEVE.NAME"
+msgid "Flocculation Sieve"
+msgstr "絮凝筛"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_GAS_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_GAS_BOILER.DESC"
+msgid "An industrial grade boiler that generates thermal energy by burning Combustible Gases."
+msgstr "一种工业级锅炉，通过燃烧可燃气体产生热能。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_GAS_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_GAS_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses <link=\"METHANE\">Natural Gas</link> as fuel, but may as well work with other combustible gases."
+msgstr "将<link=\"WATER\">水</link>加热至200°C，转化为<link=\"STEAM\">蒸汽</link>。该锅炉以<link=\"METHANE\">天然气</link>为燃料，也可使用其他可燃气体。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_GAS_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_GAS_BOILER.NAME"
+msgid "Gas-fueled Steam Boiler"
+msgstr "燃气蒸汽锅炉"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_GLASSFOUNDRY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_GLASSFOUNDRY.DESC"
+msgid "A plasma arc furnace uses low-temperature plasma flow created by an electric arc heater (plasmatron)."
+msgstr "等离子电弧炉利用电弧加热器（等离子体发生器）产生的低温等离子流进行加热。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_GLASSFOUNDRY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_GLASSFOUNDRY.EFFECT"
+msgid "This techlogical advanced glass foundry is capable more than melt <link=\"SAND\">Sand</link> in to <link=\"MOLTENGLASS\">Molten Glass</link>, but a wide range of other applications."
+msgstr "这座技术先进的玻璃铸造厂不仅能将<link=\"SAND\">沙子</link>熔化为<link=\"MOLTENGLASS\">熔融玻璃</link>，还可用于多种其他应用。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_GLASSFOUNDRY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_GLASSFOUNDRY.NAME"
+msgid "Glass Foundry"
+msgstr "玻璃铸造厂"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_NAPHTHAREFORMER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_NAPHTHAREFORMER.DESC"
+msgid "An industrial petrochemical plant responsible for rearranging hydrocarbon molecules of Naphtha in to Petroleum."
+msgstr "一种工业石化装置，用于将石脑油的烃分子重组为石油。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_NAPHTHAREFORMER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_NAPHTHAREFORMER.EFFECT"
+msgid "Second Stage refinement plant is capable of furter refine <link=\"NAPHTHA\">Naphtha</link>:\n - 45% <link=\"PETROLEUM\">Petroleum</link>\n- 10% <link=\"METHANE\">Natural Gas</link>\n- 45% <link=\"BITUMEN\">Bitumen</link>.\n\nThe process require <link=\"HYDROGEN\">Hydrogen</link> to buffer the reaction.IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate."
+msgstr "二级精炼厂可进一步精炼<link=\"NAPHTHA\">石脑油</link>：\n- 45% <link=\"PETROLEUM\">石油</link>\n- 10% <link=\"METHANE\">天然气</link>\n- 45% <link=\"BITUMEN\">沥青</link>。\n\n该过程需要<link=\"HYDROGEN\">氢气</link>作为反应缓冲。重要提示：建筑的所有管道端口必须与相应管道连接才能运行。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_NAPHTHAREFORMER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_NAPHTHAREFORMER.NAME"
+msgid "Naphtha Reformer"
+msgstr "石脑油重整装置"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_PROPANEREFORMER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_PROPANEREFORMER.DESC"
+msgid "An industrial petrochemical plant responsible for oxidative steam reforming process of Propane to Hydrogen."
+msgstr "一种工业石化装置，用于将丙烷通过氧化蒸汽重整转化为氢气。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_PROPANEREFORMER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_PROPANEREFORMER.EFFECT"
+msgid "Reforming process of <link=\"PROPANE\">Propane</link> in to:\n - 60% <link=\"HYDROGEN\">Hydrogen</link>\n- 30% <link=\"DIRTYWATER\">Polluted Water</link> waste\n- 10% <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> waste\nThe process require <link=\"STEAM\">Steam</link> for the operation.\n\nIMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate."
+msgstr "将<link=\"PROPANE\">丙烷</link>重整为：\n- 60% <link=\"HYDROGEN\">氢气</link>\n- 30% <link=\"DIRTYWATER\">污染水</link>废液\n- 10% <link=\"CARBONDIOXIDE\">二氧化碳</link>废气\n该过程需要<link=\"STEAM\">蒸汽</link>。\n\n重要提示：建筑的所有管道端口必须与相应管道连接才能运行。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_PROPANEREFORMER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_PROPANEREFORMER.NAME"
+msgid "Propane Reformer"
+msgstr "丙烷重整装置"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_PYROLYSISKILN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_PYROLYSISKILN.DESC"
+msgid "A basic kiln that uses pyrolysis process to convert woodlogs to usable coal."
+msgstr "一种利用热解工艺将木材转化为可用煤炭的基础窑炉。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_PYROLYSISKILN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_PYROLYSISKILN.EFFECT"
+msgid "Cook <link=\"WOODLOG\">Woodlog</link> to <link=\"CARBON\">Coal</link>."
+msgstr "将<link=\"WOODLOG\">木材</link>烧制为<link=\"CARBON\">煤炭</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_PYROLYSISKILN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_PYROLYSISKILN.NAME"
+msgid "Pyrolysis Kiln"
+msgstr "热解窑"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAWGASREFINERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAWGASREFINERY.DESC"
+msgid "An industrial process plant responsible for refining the impure raw natural gas extracted from wells."
+msgstr "一种工业加工厂，用于精炼从井中提取的未净化原始天然气。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAWGASREFINERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAWGASREFINERY.EFFECT"
+msgid "This refinement plant is capable of the following production: \n - 50% <link=\"METHANE\">Natural Gas</link>\n- 35% <link=\"PROPANE\">Propane</link>\n- 15% <link=\"SOURWATER\">Sour Water</link> waste\nThe process require <link=\"STEAM\">Steam</link> for the operation.\n\nIMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate."
+msgstr "该精炼厂可生产：\n- 50% <link=\"METHANE\">天然气</link>\n- 35% <link=\"PROPANE\">丙烷</link>\n- 15% <link=\"SOURWATER\">酸性水</link>废液\n该过程需要<link=\"STEAM\">蒸汽</link>。\n\n重要提示：建筑的所有管道端口必须与相应管道连接才能运行。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAWGASREFINERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAWGASREFINERY.NAME"
+msgid "Raw Gas Refinery"
+msgstr "原气精炼厂"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAYONLOOM.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAYONLOOM.DESC"
+msgid "A chemical loom capable of producing celulose fibers with Viscose process."
+msgstr "一种可通过粘胶法生产纤维素纤维的化学织机。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAYONLOOM.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAYONLOOM.EFFECT"
+msgid "Produces <link=\"\">Rayon Fiber</link> from <link=\"<LINK=\"WOOD\">木材</LINK>\">Wood Lumber</link> pulp through a complex chemical reaction. Require <link=\"SYNGAS\">Synthetic Gas</link>, and constantly outputs <link=\"STEAM\">Steam</link> while operational."
+msgstr "通过复杂的化学反应，将<link=\"<LINK=\"WOOD\">木材</LINK>\">木材</link>浆制成<link=\"\">人造丝纤维</link>。需要<link=\"SYNGAS\">合成气</link>，运行时持续输出<link=\"STEAM\">蒸汽</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAYONLOOM.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_RAYONLOOM.NAME"
+msgid "Rayon Loom"
+msgstr "人造丝织机"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SELECTIVEARCFURNACE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SELECTIVEARCFURNACE.DESC"
+msgid "A specialized furnace that heats material by means of an electric arc. Its delicate heat control structure allows mixture of metal alloys, as well separating metals from an homogeneous mixture of scraps. Although the furnace is air-cooled, it releases a lot of heat on its surroundings."
+msgstr "一种通过电弧加热材料的专用炉。其精细的温控结构可用于金属合金的混合，也可从均质废料混合物中分离金属。尽管该炉为风冷，但会向周围释放大量热量。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SELECTIVEARCFURNACE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SELECTIVEARCFURNACE.EFFECT"
+msgid "Special works with <link=\"REFINEDMETAL\">Refined Metals</link> and in the manufacture of metal alloys."
+msgstr "专用于<link=\"REFINEDMETAL\">精炼金属</link>及金属合金的制造。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SELECTIVEARCFURNACE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SELECTIVEARCFURNACE.NAME"
+msgid "Selective Arc-Furnace"
+msgstr "选择性电弧炉"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SMALLCRUSHERMILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SMALLCRUSHERMILL.DESC"
+msgid "A jaw crusher uses compressive force for breaking of stone and other raw minerals."
+msgstr "颚式破碎机利用压缩力破碎石块及其他原矿物。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SMALLCRUSHERMILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SMALLCRUSHERMILL.EFFECT"
+msgid "Crush down <link=\"RAWMINERAL\">Raw Minerals</link> in to useful materials and industrial ingredients."
+msgstr "将<link=\"RAWMINERAL\">原矿物</link>粉碎为有用材料和工业原料。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SMALLCRUSHERMILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SMALLCRUSHERMILL.NAME"
+msgid "Jaw Crusher Mill"
+msgstr "颚式破碎磨机"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOILMIXER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOILMIXER.DESC"
+msgid "A mixer designed for uniform blending of a wide variety of solid materials, while treating them with chemicals."
+msgstr "一种用于均匀混合多种固体材料并进行化学处理的搅拌机。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOILMIXER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOILMIXER.EFFECT"
+msgid "A solid material mixer designed for agricultural purpose, mainly for the production of <link=\"DIRT\">Dirt</link> and <link=\"FERTILIZER\">Fertilizer</link>."
+msgstr "用于农业的固体材料混合器，主要用于生产<link=\"DIRT\">泥土</link>和<link=\"FERTILIZER\">肥料</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOILMIXER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOILMIXER.NAME"
+msgid "Soil Mixer"
+msgstr "土壤混合机"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOURWATERSTRIPPER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOURWATERSTRIPPER.DESC"
+msgid "A heavy industrial device that uses a combination of pH control and heat, direct injection of steam to drives off the ammonia and hydrogen sulfide from the water. Also fitted with a filter mechanism to ensure the quality of the stripped water."
+msgstr "一种重型工业设备，通过pH控制和加热、直接注入蒸汽，将氨和硫化氢从水中驱除。配备过滤机制以确保脱除后水的质量。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOURWATERSTRIPPER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOURWATERSTRIPPER.EFFECT"
+msgid "Separate clean <link=\"WATER\">Water</link> from <link=\"SOURWATER\">Sour Water</link> using hot <link=\"STEAM\">Steam</link>.\n The stripping process also produces <link=\"SOURGAS\">Sour Gas</link> from the separation.\n<link=\"SAND\">Sand</link> is required to further filter the water from any other contaminants it may still have, which is then released as  <link=\"TOXICSAND\">Polluted Dirty</link> afterwards.IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate."
+msgstr "利用热<link=\"STEAM\">蒸汽</link>将<link=\"SOURWATER\">酸性水</link>分离为洁净<link=\"WATER\">水</link>。\n脱除过程还会产生<link=\"SOURGAS\">酸性气体</link>。\n需要<link=\"SAND\">沙子</link>进一步过滤残留杂质，过滤后沙子会变为<link=\"TOXICSAND\">污染沙</link>。重要提示：建筑的所有管道端口必须与相应管道连接才能运行。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOURWATERSTRIPPER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SOURWATERSTRIPPER.NAME"
+msgid "Sour Water Stripper"
+msgstr "酸性水脱除器"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNGASREFINERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNGASREFINERY.DESC"
+msgid "A refinery capable of catalytic partial oxidation reactions to produce Syngas."
+msgstr "一种可通过催化部分氧化反应生产合成气的精炼厂。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNGASREFINERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNGASREFINERY.EFFECT"
+msgid "Produce Synthetic Gas from a variety of Organic and Mineral materials."
+msgstr "可将多种有机和矿物材料转化为合成气。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNGASREFINERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNGASREFINERY.NAME"
+msgid "Syngas Refinery"
+msgstr "合成气精炼厂"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERNITRIC.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERNITRIC.DESC"
+msgid "A chemical synthesizer device capable of producing Nitric Acid."
+msgstr "一种能够合成硝酸的化学合成装置。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERNITRIC.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERNITRIC.EFFECT"
+msgid "Produces industrial grade <link=\"LIQUIDNITRIC\">Nitric Acid</link> using provided <link=\"LIQUIDSULFURIC\">Sulfuric Acid</link> and <link=\"AMMONIAGAS\">Ammonia</link>."
+msgstr "使用<link=\"LIQUIDSULFURIC\">硫酸</link>和<link=\"AMMONIAGAS\">氨气</link>合成工业级<link=\"LIQUIDNITRIC\">硝酸</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERNITRIC.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERNITRIC.NAME"
+msgid "Nitric Acid Synthesizer"
+msgstr "硝酸合成器"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSALTWATER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSALTWATER.DESC"
+msgid "A simple device capable of producing high-quality salt water."
+msgstr "一种可生产高品质盐水的简单装置。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSALTWATER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSALTWATER.EFFECT"
+msgid "Produces <link=\"SALTWATER\">Salt Water</link> using provided <link=\"WATER\">Water</link> and <link=\"SALT\">Salt</link>."
+msgstr "使用<link=\"WATER\">水</link>和<link=\"SALT\">盐</link>生产<link=\"SALTWATER\">盐水</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSALTWATER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSALTWATER.NAME"
+msgid "Salt Water Mixer"
+msgstr "盐水混合器"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSULFURIC.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSULFURIC.DESC"
+msgid "A chemical synthesizer device capable of producing Sulfuric Acid."
+msgstr "一种能够合成硫酸的化学合成装置。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSULFURIC.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSULFURIC.EFFECT"
+msgid "Produces industrial grade <link=\"LIQUIDSULFURIC\">Sulfuric Acid</link> using provided <link=\"STEAM\">Steam</link> and <link=\"SULFUR\">Sulfur</link>."
+msgstr "使用<link=\"STEAM\">蒸汽</link>和<link=\"SULFUR\">硫磺</link>合成工业级<link=\"LIQUIDSULFURIC\">硫酸</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSULFURIC.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_SYNTHESIZERSULFURIC.NAME"
+msgid "Sulfuric Acid Synthesizer"
+msgstr "硫酸合成器"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_THERMALDESALINATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_THERMALDESALINATOR.DESC"
+msgid "A basic desalinator that uses Vapor-compression evaporation to archive the separation of clean, usable water from the solution it is currently mixed."
+msgstr "一种基础型脱盐器，利用蒸汽压缩蒸发将混合溶液中的洁净可用水分离出来。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_THERMALDESALINATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_THERMALDESALINATOR.EFFECT"
+msgid "Uses <link=\"STEAM\">Steam</link> as buffer for the Desalination process of either<link=\"SALTWATER\">Salt Water</link>or Ammonium Water, releasing fresh <link=\"WATER\">Water</link>and concentrated <link=\"BRINE\">Brine</link>in return."
+msgstr "利用<link=\"STEAM\">蒸汽</link>作为缓冲，对<link=\"SALTWATER\">盐水</link>或氨水进行脱盐处理，产出新鲜<link=\"WATER\">水</link>和浓缩<link=\"BRINE\">盐水</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_THERMALDESALINATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_THERMALDESALINATOR.NAME"
+msgid "Thermal Desalinator"
+msgstr "热力脱盐器"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_WOODEN_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_WOODEN_BOILER.DESC"
+msgid "An industrial grade boiler that generates thermal energy by burning wood lumber."
+msgstr "一种工业级锅炉，通过燃烧木材产生热能。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_WOODEN_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_WOODEN_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses Lumber as fuel."
+msgstr "将<link=\"WATER\">水</link>加热至200°C，转化为<link=\"STEAM\">蒸汽</link>。该锅炉以木材为燃料。"
+
+#. STRINGS.BUILDINGS.PREFABS.CHEMICAL_WOODEN_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CHEMICAL_WOODEN_BOILER.NAME"
+msgid "Lumber-fueled Steam Boiler"
+msgstr "燃木蒸汽锅炉"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_METALREFINERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_METALREFINERY.DESC"
+msgid "A basic refinery capable of smelting metals from ores."
+msgstr "一种能够从矿石中冶炼金属的基础精炼厂。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_METALREFINERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_METALREFINERY.EFFECT"
+msgid "Produces <link=\"REFINEDMETAL\">Refined Metals</link> from raw <link=\"RAWMETAL\">Metal Ore</link>.\n\nSignificantly <link=\"HEAT\">Heats</link> and outputs the <link=\"ELEMENTSLIQUID\">Liquid</link> piped into it.\n\nDuplicants will not fabricate items unless recipes are queued."
+msgstr "将原始<link=\"RAWMETAL\">金属矿石</link>冶炼为<link=\"REFINEDMETAL\">精炼金属</link>。\n\n会显著<link=\"HEAT\">加热</link>并输出注入的<link=\"ELEMENTSLIQUID\">液体</link>。\n\n只有在排队配方后复制人才会进行制造。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_METALREFINERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_METALREFINERY.NAME"
+msgid "Metal Refinery"
+msgstr "金属精炼厂"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_OILWELLCAP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_OILWELLCAP.DESC"
+msgid "A large device capable to extract oil from the attached well using liquid pumped in. Liquid pumped into an oil reservoir cannot be recovered. "
+msgstr "一种大型装置，可通过注入液体从连接的油井中提取原油。注入油藏的液体无法回收。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_OILWELLCAP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_OILWELLCAP.EFFECT"
+msgid "Extracts <link=\"CRUDEOIL\">Crude Oil</link> using any form of water..\n\nMust be built atop an <link=\"OILWELL\">Oil Reservoir</link>."
+msgstr "使用任意形式的水提取<link=\"CRUDEOIL\">原油</link>。\n\n必须建造在<link=\"OILWELL\">油藏</link>之上。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_OILWELLCAP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_OILWELLCAP.NAME"
+msgid "Oil Well Pump"
+msgstr "油井泵"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_POLYMERIZER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_POLYMERIZER.DESC"
+msgid "A custom polymerization press capable of producing polymer from Ethanol."
+msgstr "一种定制聚合压机，可将乙醇聚合为塑料。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_POLYMERIZER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_POLYMERIZER.EFFECT"
+msgid "Special modifications allows the polymerization of <link=\"ETHANOL\">Ethanol</link> into raw <link=\"POLYPROPYLENE\">Plastic</link>with the addition of <link=\"CHLORINE\">Chlorine Gas</link>."
+msgstr "特殊改造可使<link=\"ETHANOL\">乙醇</link>在加入<link=\"CHLORINE\">氯气</link>后聚合为原始<link=\"POLYPROPYLENE\">塑料</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOM_POLYMERIZER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOM_POLYMERIZER.NAME"
+msgid "Ethanol Polymer Press"
+msgstr "乙醇聚合压机"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.AMMONIAGEYSER.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.AMMONIAGEYSER.DESC"
+msgid "A highly pressurized cryogeyser that periodically erupts with cold liquid <link=\"LIQUIDAMMONIA\">Ammonia</link>."
+msgstr "一种高压冷泉间歇泉，周期性喷发冷态<link=\"LIQUIDAMMONIA\">氨</link>液体。"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.AMMONIAGEYSER.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.AMMONIAGEYSER.NAME"
+msgid "<link=\"GEYSERGENERICAMMONIAGEYSER\">Ammonia Geyser</link>"
+msgstr "<link=\"GEYSERGENERICAMMONIAGEYSER\">氨间歇泉</link>"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.AMMONIUMWATERGEYSER.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.AMMONIUMWATERGEYSER.DESC"
+msgid "A highly pressurized cryogeyser that periodically erupts with cold <link=\"AMMONIUMWATER\">Ammonium Water</link>."
+msgstr "一种高压冷泉间歇泉，周期性喷发冷态<link=\"AMMONIUMWATER\">氨水</link>。"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.AMMONIUMWATERGEYSER.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.AMMONIUMWATERGEYSER.NAME"
+msgid "<link=\"GEYSERGENERICAMMONIUMWATERGEYSER\">Ammonium Water Geyser</link>"
+msgstr "<link=\"GEYSERGENERICAMMONIUMWATERGEYSER\">氨水间歇泉</link>"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.HOTMERCURYGASVENT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOTMERCURYGASVENT.DESC"
+msgid "A highly pressurized geothermal vent that periodically erupts with hot <link=\"MERCURYGAS\">Mercury Gas</link>."
+msgstr "一种高压地热喷口，周期性喷发高温<link=\"MERCURYGAS\">汞气体</link>。"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.HOTMERCURYGASVENT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOTMERCURYGASVENT.NAME"
+msgid "<link=\"GEYSERGENERICHOTMERCURYGASVENT\">Hot Mercury Gas Vent</link>"
+msgstr "<link=\"GEYSERGENERICHOTMERCURYGASVENT\">高温汞气喷口</link>"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.MOLTENSALTGEYSER.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTENSALTGEYSER.DESC"
+msgid "A highly pressurized hot fissure that periodically erupts with <link=\"MOLTENSALT\">Molten Salt</link>."
+msgstr "一种高压热裂隙，周期性喷发<link=\"MOLTENSALT\">熔融盐</link>。"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.MOLTENSALTGEYSER.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTENSALTGEYSER.NAME"
+msgid "<link=\"GEYSERGENERICMOLTENSALTGEYSER\">Molten Salt Geyser</link>"
+msgstr "<link=\"GEYSERGENERICMOLTENSALTGEYSER\">熔盐间歇泉</link>"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.PHOSPHORUSGEYSER.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.PHOSPHORUSGEYSER.DESC"
+msgid "A highly pressurized hot fissure that periodically erupts with <link=\"LIQUIDPHOSPHORUS\">Liquid Phosphorus</link>."
+msgstr "一种高压热裂隙，周期性喷发<link=\"LIQUIDPHOSPHORUS\">液态磷</link>。"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.PHOSPHORUSGEYSER.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.PHOSPHORUSGEYSER.NAME"
+msgid "<link=\"GEYSERGENERICPHOSPHORUSGEYSER\">Liquid Phosphorus Geyser</link>"
+msgstr "<link=\"GEYSERGENERICPHOSPHORUSGEYSER\">液态磷间歇泉</link>"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.RAWGASVENT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.RAWGASVENT.DESC"
+msgid "A highly pressurized geothermal vent that periodically erupts with hot <link=\"RAWNATURALGAS\">Raw Natural Gas</link>."
+msgstr "一种高压地热喷口，周期性喷发高温<link=\"RAWNATURALGAS\">原始天然气</link>。"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.RAWGASVENT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.RAWGASVENT.NAME"
+msgid "<link=\"GEYSERGENERICRAWGASVENT\">Hot Raw Natural Gas Vent</link>"
+msgstr "<link=\"GEYSERGENERICRAWGASVENT\">高温原气喷口</link>"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.SOURWATERGEYSER.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.SOURWATERGEYSER.DESC"
+msgid "A highly pressurized geyser that periodically erupts with cold <link=\"SOURWATER\">Sour Water</link>."
+msgstr "一种高压间歇泉，周期性喷发冷态<link=\"SOURWATER\">酸性水</link>。"
+
+#. STRINGS.CREATURES.SPECIES.GEYSER.SOURWATERGEYSER.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.SOURWATERGEYSER.NAME"
+msgid "<link=\"GEYSERGENERICSOURWATERGEYSER\">Sour Water Geyser</link>"
+msgstr "<link=\"GEYSERGENERICSOURWATERGEYSER\">酸性水间歇泉</link>"
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.ACIDBURNS.NAME
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ACIDBURNS.NAME"
+msgid "Acid Burns"
+msgstr "酸灼伤"
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.ACIDBURNS.NOTIFICATION_NAME
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ACIDBURNS.NOTIFICATION_NAME"
+msgid "Chemical burns"
+msgstr "化学灼伤"
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.ACIDBURNS.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ACIDBURNS.NOTIFICATION_TOOLTIP"
+msgid "Duplicants have been exposed to acids."
+msgstr "复制人已暴露于酸性物质。"
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.ACIDBURNS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ACIDBURNS.TOOLTIP"
+msgid "This duplicant has been injured from their recent exposure to corrosive acids."
+msgstr "该复制人因最近接触腐蚀性酸液而受伤。"
+
+#. STRINGS.ELEMENTS.AMMONIAGAS.DESC
+msgctxt "STRINGS.ELEMENTS.AMMONIAGAS.DESC"
+msgid "(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen. A stable binary hydride, and the simplest pnictogen hydride, ammonia is a gas with a distinct pungent smell."
+msgstr "(NH<sub>3</sub>) 氨是一种由氮和氢组成的无机化合物。它是一种稳定的二元氢化物，也是最简单的氮族氢化物，具有强烈刺激性气味的气体。"
+
+#. STRINGS.ELEMENTS.AMMONIAGAS.NAME
+msgctxt "STRINGS.ELEMENTS.AMMONIAGAS.NAME"
+msgid "<link=\"AMMONIAGAS\">Ammonia</link>"
+msgstr "<link=\"AMMONIAGAS\">氨气</link>"
+
+#. STRINGS.ELEMENTS.AMMONIUMSALT.DESC
+msgctxt "STRINGS.ELEMENTS.AMMONIUMSALT.DESC"
+msgid "(NH<sub>4</sub>NO<sub>3</sub>) Nodules of dirt containing high concentrations of Ammonium Nitrate."
+msgstr "(NH<sub>4</sub>NO<sub>3</sub>) 含有高浓度硝酸铵的土块结块。"
+
+#. STRINGS.ELEMENTS.AMMONIUMSALT.NAME
+msgctxt "STRINGS.ELEMENTS.AMMONIUMSALT.NAME"
+msgid "<link=\"AMMONIUMSALT\">Nitrate Nodules</link>"
+msgstr "<link=\"AMMONIUMSALT\">硝酸盐结块</link>"
+
+#. STRINGS.ELEMENTS.AMMONIUMWATER.DESC
+msgctxt "STRINGS.ELEMENTS.AMMONIUMWATER.DESC"
+msgid "(NH<sub>4</sub>OH) Ammonium hydroxide is a solution of <link=\"AMMONIAGAS\">Ammonia</link> and <link=\"SALTWATER\">Salt Water</link>."
+msgstr "(NH<sub>4</sub>OH) 氨水是一种由<link=\"AMMONIAGAS\">氨气</link>和<link=\"SALTWATER\">盐水</link>组成的溶液。"
+
+#. STRINGS.ELEMENTS.AMMONIUMWATER.NAME
+msgctxt "STRINGS.ELEMENTS.AMMONIUMWATER.NAME"
+msgid "<link=\"AMMONIUMWATER\">Ammonium Water</link>"
+msgstr "<link=\"AMMONIUMWATER\">氨水</link>"
+
+#. STRINGS.ELEMENTS.ARGENTITEORE.DESC
+msgctxt "STRINGS.ELEMENTS.ARGENTITEORE.DESC"
+msgid "(Ag<sub>2</sub>S) Argentite is a cubic silver sulfide is a conductive metal, and the main source of refined <link=\"SOLIDSILVER\">Silver</link> metal."
+msgstr "(Ag<sub>2</sub>S) 辉银矿是一种立方体银的硫化物，是导电金属，也是精炼<link=\"SOLIDSILVER\">银</link>的主要来源。"
+
+#. STRINGS.ELEMENTS.ARGENTITEORE.NAME
+msgctxt "STRINGS.ELEMENTS.ARGENTITEORE.NAME"
+msgid "<link=\"ARGENTITEORE\">Silver Ore</link>"
+msgstr "<link=\"ARGENTITEORE\">银矿石</link>"
+
+#. STRINGS.ELEMENTS.AURICHALCITEORE.DESC
+msgctxt "STRINGS.ELEMENTS.AURICHALCITEORE.DESC"
+msgid "((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) Aurichalcite is a carbonate mineral, and the main source of refined <link=\"SOLIDZINC\">Zinc</link> metal."
+msgstr "((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) 孔雀石是一种碳酸盐矿物，是精炼<link=\"SOLIDZINC\">锌</link>的主要来源。"
+
+#. STRINGS.ELEMENTS.AURICHALCITEORE.NAME
+msgctxt "STRINGS.ELEMENTS.AURICHALCITEORE.NAME"
+msgid "<link=\"AURICHALCITEORE\">Zinc Ore</link>"
+msgstr "<link=\"AURICHALCITEORE\">锌矿石</link>"
+
+#. STRINGS.ELEMENTS.BASEGRADESAND.DESC
+msgctxt "STRINGS.ELEMENTS.BASEGRADESAND.DESC"
+msgid "A heavy sandy material composed mostly of common metallic grains, mixed with other finer mineral particles."
+msgstr "一种主要由常见金属颗粒和其他细小矿物颗粒混合而成的重型砂质材料。"
+
+#. STRINGS.ELEMENTS.BASEGRADESAND.NAME
+msgctxt "STRINGS.ELEMENTS.BASEGRADESAND.NAME"
+msgid "<link=\"BASEGRADESAND\">Base-Grade Metallic Sand</link>"
+msgstr "<link=\"BASEGRADESAND\">普通金属砂</link>"
+
+#. STRINGS.ELEMENTS.CARBONFIBER.DESC
+msgctxt "STRINGS.ELEMENTS.CARBONFIBER.DESC"
+msgid "Carbon fiber-reinforced polymers blocks are extremely strong and light fiber-reinforced plastics that contain carbon fibers. Used on wherever high strength-to-weight ratio and stiffness (rigidity) are required, such as aerospace. Its composition of allotropes of carbon make it extremely resistant to heat."
+msgstr "碳纤维增强聚合物块是一种极其坚固且轻质的纤维增强塑料，含有碳纤维。常用于需要高强度重量比和高刚性的场合，如航空航天。其由碳的同素异形体组成，使其极耐高温。"
+
+#. STRINGS.ELEMENTS.CARBONFIBER.NAME
+msgctxt "STRINGS.ELEMENTS.CARBONFIBER.NAME"
+msgid "<link=\"CARBONFIBER\">Carbon Composite</link>"
+msgstr "<link=\"CARBONFIBER\">碳复合材料</link>"
+
+#. STRINGS.ELEMENTS.CHLOROSCHIST.DESC
+msgctxt "STRINGS.ELEMENTS.CHLOROSCHIST.DESC"
+msgid "A dense medium-grained metamorphic rock showing pronounced schistosity. This sample has a high content of chloride minerals within its compacted layers."
+msgstr "一种致密的中粒变质岩，具有明显的片理结构。该样品的致密层中含有大量氯化物矿物。"
+
+#. STRINGS.ELEMENTS.CHLOROSCHIST.NAME
+msgctxt "STRINGS.ELEMENTS.CHLOROSCHIST.NAME"
+msgid "<link=\"CHLOROSCHIST\">Chloroschist</link>"
+msgstr "<link=\"CHLOROSCHIST\">绿片岩</link>"
+
+#. STRINGS.ELEMENTS.CONCRETEBLOCK.DESC
+msgctxt "STRINGS.ELEMENTS.CONCRETEBLOCK.DESC"
+msgid "Concrete blocks are standard-size rectangular blocks used in building construction. A versatile component made from different aggregates that are often considered waste products."
+msgstr "混凝土块是建筑中使用的标准矩形块。它由多种常被视为废料的骨料制成，是一种多用途的建筑材料。"
+
+#. STRINGS.ELEMENTS.CONCRETEBLOCK.NAME
+msgctxt "STRINGS.ELEMENTS.CONCRETEBLOCK.NAME"
+msgid "<link=\"CONCRETEBLOCK\">Concrete Block</link>"
+msgstr "<link=\"CONCRETEBLOCK\">混凝土块</link>"
+
+#. STRINGS.ELEMENTS.GALENA.DESC
+msgctxt "STRINGS.ELEMENTS.GALENA.DESC"
+msgid "Galena is the natural mineral form of lead(II) sulfide (PbS).It is the most important ore of <link=\"LEAD\">Lead</link> and an important source of <link=\"SOLIDSILVER\">Silver</link>."
+msgstr "方铅矿是天然的硫化铅（PbS）矿物，是<link=\"LEAD\">铅</link>最重要的矿石，也是<link=\"SOLIDSILVER\">银</link>的重要来源。"
+
+#. STRINGS.ELEMENTS.GALENA.NAME
+msgctxt "STRINGS.ELEMENTS.GALENA.NAME"
+msgid "<link=\"GALENA\">Galena</link>"
+msgstr "<link=\"GALENA\">方铅矿</link>"
+
+#. STRINGS.ELEMENTS.HIGHGRADESAND.DESC
+msgctxt "STRINGS.ELEMENTS.HIGHGRADESAND.DESC"
+msgid "A glimmering sandy material composed mostly of high quality metallic grains, mixed with other finer mineral particles."
+msgstr "一种闪亮的砂质材料，主要由高品质金属颗粒和其他细小矿物颗粒混合而成。"
+
+#. STRINGS.ELEMENTS.HIGHGRADESAND.NAME
+msgctxt "STRINGS.ELEMENTS.HIGHGRADESAND.NAME"
+msgid "<link=\"HIGHGRADESAND\">High-Grade Metallic Sand</link>"
+msgstr "<link=\"HIGHGRADESAND\">高品金属砂</link>"
+
+#. STRINGS.ELEMENTS.ISOPROPANEGAS.DESC
+msgctxt "STRINGS.ELEMENTS.ISOPROPANEGAS.DESC"
+msgid "(HC(CH<sub>3</sub>)<sub>3</sub>) Isopropane is a petrochemical refrigerant gas suitable for a variety of purposes. Degrades to <link=\"PROPANE\">Propane</link> at higher temperatures."
+msgstr "(HC(CH<sub>3</sub>)<sub>3</sub>) 异丙烷是一种石化制冷气体，适用于多种用途。在高温下会分解为<link=\"PROPANE\">丙烷</link>。"
+
+#. STRINGS.ELEMENTS.ISOPROPANEGAS.NAME
+msgctxt "STRINGS.ELEMENTS.ISOPROPANEGAS.NAME"
+msgid "<link=\"ISOPROPANEGAS\">Isopropane</link>"
+msgstr "<link=\"ISOPROPANEGAS\">异丙烷</link>"
+
+#. STRINGS.ELEMENTS.LIQUIDAMMONIA.DESC
+msgctxt "STRINGS.ELEMENTS.LIQUIDAMMONIA.DESC"
+msgid "(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen, currently in its cold, liquid state."
+msgstr "(NH<sub>3</sub>) 氨是一种由氮和氢组成的无机化合物，目前处于冷态液体状态。"
+
+#. STRINGS.ELEMENTS.LIQUIDAMMONIA.NAME
+msgctxt "STRINGS.ELEMENTS.LIQUIDAMMONIA.NAME"
+msgid "<link=\"LIQUIDAMMONIA\">Liquid Ammonia</link>"
+msgstr "<link=\"LIQUIDAMMONIA\">液态氨</link>"
+
+#. STRINGS.ELEMENTS.LIQUIDNITRIC.DESC
+msgctxt "STRINGS.ELEMENTS.LIQUIDNITRIC.DESC"
+msgid "(HNO<sub>3</sub>) An inorganic mineral acid composed of the elements nitrogen, oxygen and hydrogen. Presented in its liquid state, is the primary reagent used for nitration – the addition of a nitro group, typically to an organic molecule."
+msgstr "(HNO<sub>3</sub>) 一种由氮、氧和氢组成的无机矿酸。以液态存在，是硝化反应（通常向有机分子引入硝基）的主要试剂。"
+
+#. STRINGS.ELEMENTS.LIQUIDNITRIC.NAME
+msgctxt "STRINGS.ELEMENTS.LIQUIDNITRIC.NAME"
+msgid "<link=\"LIQUIDNITRIC\">Nitric Acid</link>"
+msgstr "<link=\"LIQUIDNITRIC\">硝酸</link>"
+
+#. STRINGS.ELEMENTS.LIQUIDSULFURIC.DESC
+msgctxt "STRINGS.ELEMENTS.LIQUIDSULFURIC.DESC"
+msgid "(H<sub>2</sub>SO<sub>4</sub>) A mineral acid composed of the elements sulfur, oxygen and hydrogen. Presented in its liquid state, it is a very dangerous chemical for its corrosive nature."
+msgstr "(H<sub>2</sub>SO<sub>4</sub>) 一种由硫、氧和氢组成的矿物酸。以液态存在，因其强腐蚀性而极其危险。"
+
+#. STRINGS.ELEMENTS.LIQUIDSULFURIC.NAME
+msgctxt "STRINGS.ELEMENTS.LIQUIDSULFURIC.NAME"
+msgid "<link=\"LIQUIDSULFURIC\">Sulfuric Acid</link>"
+msgstr "<link=\"LIQUIDSULFURIC\">硫酸</link>"
+
+#. STRINGS.ELEMENTS.LOWGRADESAND.DESC
+msgctxt "STRINGS.ELEMENTS.LOWGRADESAND.DESC"
+msgid "A sandy material composed mostly of low quality metallic grains, mixed with other finer mineral particles."
+msgstr "一种主要由低品质金属颗粒和其他细小矿物颗粒混合而成的砂质材料。"
+
+#. STRINGS.ELEMENTS.LOWGRADESAND.NAME
+msgctxt "STRINGS.ELEMENTS.LOWGRADESAND.NAME"
+msgid "<link=\"LOWGRADESAND\">Low-Grade Metallic Sand</link>"
+msgstr "<link=\"LOWGRADESAND\">低品金属砂</link>"
+
+#. STRINGS.ELEMENTS.METEORORE.DESC
+msgctxt "STRINGS.ELEMENTS.METEORORE.DESC"
+msgid "A dense stony mass formed when various types of dust and small grains in the early Solar System accreted to form primitive asteroids. Despite their stony nature, these collision remnants contain traces of rare metals."
+msgstr "一种致密的石质块体，由早期太阳系中的各种尘埃和小颗粒聚集形成原始小行星。尽管其为石质，但这些碰撞残留物中含有稀有金属的痕迹。"
+
+#. STRINGS.ELEMENTS.METEORORE.NAME
+msgctxt "STRINGS.ELEMENTS.METEORORE.NAME"
+msgid "<link=\"METEORORE\">Meteor Ore</link>"
+msgstr "<link=\"METEORORE\">陨石矿石</link>"
+
+#. STRINGS.ELEMENTS.MOLTENSILVER.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.DESC"
+msgid "(Ag) Silver is soft, white, lustrous transition metal, in its molten state."
+msgstr "(Ag) 银是一种柔软、白色、有光泽的过渡金属，此为其熔融状态。"
+
+#. STRINGS.ELEMENTS.MOLTENSILVER.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.NAME"
+msgid "<link=\"MOLTENSILVER\">Molten Silver</link>"
+msgstr "<link=\"MOLTENSILVER\">熔融银</link>"
+
+#. STRINGS.ELEMENTS.MOLTENSLAG.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENSLAG.DESC"
+msgid "Molten Slag is a by-product of smelting (pyrometallurgical) ores and used metals. Present in molten state, this waste materail needs to be cooled down to solid <link=\"SOLIDSLAG\">Slag</link> before can be used."
+msgstr "熔融矿渣是冶炼（高温冶金）矿石和金属的副产物。以熔融状态存在，需冷却为固体<link=\"SOLIDSLAG\">矿渣</link>后方可使用。"
+
+#. STRINGS.ELEMENTS.MOLTENSLAG.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENSLAG.NAME"
+msgid "<link=\"MOLTENSLAG\">Molten Slag</link>"
+msgstr "<link=\"MOLTENSLAG\">熔融矿渣</link>"
+
+#. STRINGS.ELEMENTS.MOLTENZINC.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENZINC.DESC"
+msgid "(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten state."
+msgstr "(Zn) 锌是一种带蓝色光泽的白色抗磁金属，此为其熔融状态。"
+
+#. STRINGS.ELEMENTS.MOLTENZINC.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENZINC.NAME"
+msgid "<link=\"MOLTENZINC\">Molten Zinc</link>"
+msgstr "<link=\"MOLTENZINC\">熔融锌</link>"
+
+#. STRINGS.ELEMENTS.PHOSPHORBRONZE.DESC
+msgctxt "STRINGS.ELEMENTS.PHOSPHORBRONZE.DESC"
+msgid "An alloy composed of <link=\"COPPER\">Copper</link>, <link=\"LEAD\">Lead</link> and <link=\"PHOSPHORUS\">Phosphorus</link>. Among copper based alloys it is remarkable tough, and has a relative low thermal conductivity."
+msgstr "一种由<link=\"COPPER\">铜</link>、<link=\"LEAD\">铅</link>和<link=\"PHOSPHORUS\">磷</link>组成的合金。在铜基合金中，它非常坚韧，且热导率较低。"
+
+#. STRINGS.ELEMENTS.PHOSPHORBRONZE.NAME
+msgctxt "STRINGS.ELEMENTS.PHOSPHORBRONZE.NAME"
+msgid "<link=\"PHOSPHORBRONZE\">Phosphor Bronze</link>"
+msgstr "<link=\"PHOSPHORBRONZE\">磷青铜</link>"
+
+#. STRINGS.ELEMENTS.PLASTEEL.DESC
+msgctxt "STRINGS.ELEMENTS.PLASTEEL.DESC"
+msgid "A composite of <link=\"POLYPROPYLENE\">Plastic</link> stabilized fibers grown into a <link=\"STEEL\">Steel</link> crystal structure. It is much more stronger and lighter than standard metals alloys, and has a very low thermal conductivity."
+msgstr "一种由<link=\"POLYPROPYLENE\">塑料</link>稳定纤维生长到<link=\"STEEL\">钢</link>晶体结构中的复合材料。比普通金属合金更坚固、更轻，且热导率极低。"
+
+#. STRINGS.ELEMENTS.PLASTEEL.NAME
+msgctxt "STRINGS.ELEMENTS.PLASTEEL.NAME"
+msgid "<link=\"PLASTEEL\">Plasteel</link>"
+msgstr "<link=\"PLASTEEL\">塑钢</link>"
+
+#. STRINGS.ELEMENTS.RAWNATURALGAS.DESC
+msgctxt "STRINGS.ELEMENTS.RAWNATURALGAS.DESC"
+msgid "A fossil gas consisting of gaseous hydrocarbons and other impurites. The majority of the gas mass is composed of <link=\"METHANE\">Methane</link>, <link=\"PROPANE\">Propane</link> and <link=\"SOURGAS\">Sour Gas</link>."
+msgstr "一种由气态烃和其他杂质组成的化石气体。其主要成分为<link=\"METHANE\">甲烷</link>、<link=\"PROPANE\">丙烷</link>和<link=\"SOURGAS\">酸性气体</link>。"
+
+#. STRINGS.ELEMENTS.RAWNATURALGAS.NAME
+msgctxt "STRINGS.ELEMENTS.RAWNATURALGAS.NAME"
+msgid "<link=\"RAWNATURALGAS\">Raw Natural Gas</link>"
+msgstr "<link=\"RAWNATURALGAS\">原始天然气</link>"
+
+#. STRINGS.ELEMENTS.SILVERGAS.DESC
+msgctxt "STRINGS.ELEMENTS.SILVERGAS.DESC"
+msgid "(Ag) Silver is soft, white, lustrous transition metal, in its gaseous state."
+msgstr "(Ag) 银是一种柔软、白色、有光泽的过渡金属，此为其气态状态。"
+
+#. STRINGS.ELEMENTS.SILVERGAS.NAME
+msgctxt "STRINGS.ELEMENTS.SILVERGAS.NAME"
+msgid "<link=\"SILVERGAS\">Silver Gas</link>"
+msgstr "<link=\"SILVERGAS\">银气体</link>"
+
+#. STRINGS.ELEMENTS.SOLIDAMMONIA.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDAMMONIA.DESC"
+msgid "(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen, currently its its cold, solid state."
+msgstr "(NH<sub>3</sub>) 氨是一种由氮和氢组成的无机化合物，目前处于冷态固体状态。"
+
+#. STRINGS.ELEMENTS.SOLIDAMMONIA.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDAMMONIA.NAME"
+msgid "<link=\"SOLIDAMMONIA\">Ammonia Snow</link>"
+msgstr "<link=\"SOLIDAMMONIA\">氨雪</link>"
+
+#. STRINGS.ELEMENTS.SOLIDBORAX.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDBORAX.DESC"
+msgid "Borax, also known as sodium borate, is an important boron compound, mainly used in the manufacture of <link=\"SOLIDFIBERGLASS\">Fiberglass</link>, and as a flux in metallurgy."
+msgstr "硼砂，也称为硼酸钠，是一种重要的硼化合物，主要用于制造<link=\"SOLIDFIBERGLASS\">玻璃纤维</link>，以及作为冶金助熔剂。"
+
+#. STRINGS.ELEMENTS.SOLIDBORAX.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDBORAX.NAME"
+msgid "<link=\"SOLIDBORAX\">Borax</link>"
+msgstr "<link=\"SOLIDBORAX\">硼砂</link>"
+
+#. STRINGS.ELEMENTS.SOLIDBRASS.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDBRASS.DESC"
+msgid "Brass is an alloy of <link=\"COPPER\">Copper</link> and <link=\"SOLIDZINC\">Zinc</link>, widely used to make utensils due to properties such as having a low melting point, high workability, durability, and electrical and thermal conductivity."
+msgstr "黄铜是一种由<link=\"COPPER\">铜</link>和<link=\"SOLIDZINC\">锌</link>组成的合金，因其低熔点、高可加工性、耐用性以及良好的导电导热性而广泛用于制造器具。"
+
+#. STRINGS.ELEMENTS.SOLIDBRASS.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDBRASS.NAME"
+msgid "<link=\"SOLIDBRASS\">Brass</link>"
+msgstr "<link=\"SOLIDBRASS\">黄铜</link>"
+
+#. STRINGS.ELEMENTS.SOLIDFIBERGLASS.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDFIBERGLASS.DESC"
+msgid "Fiberglass is a thermoset polymer matrix made by a poltrusion of boronsilicate <link=\"GLASS\">Glass</link> and <link=\"POLYPROPYLENE\">Plastic</link>. Although the fiber is weak in compression, this composite material has moderate insulating properties, and can be easily used in many different applications due to its relative flexibility."
+msgstr "玻璃纤维是一种热固性聚合物基体，由硼硅<link=\"GLASS\">玻璃</link>和<link=\"POLYPROPYLENE\">塑料</link>拉挤而成。虽然纤维抗压性较弱，但该复合材料具有中等绝缘性能，且因其柔韧性可广泛应用于多种场合。"
+
+#. STRINGS.ELEMENTS.SOLIDFIBERGLASS.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDFIBERGLASS.NAME"
+msgid "<link=\"SOLIDFIBERGLASS\">Fiberglass</link>"
+msgstr "<link=\"SOLIDFIBERGLASS\">玻璃纤维</link>"
+
+#. STRINGS.ELEMENTS.SOLIDOILSHALE.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDOILSHALE.DESC"
+msgid "Oil shale is an organic-rich fine-grained sedimentary rock containing heavy crude oil, sulfur compounds and heavy metals."
+msgstr "油页岩是一种富含有机质的细粒沉积岩，含有重质原油、硫化合物和重金属。"
+
+#. STRINGS.ELEMENTS.SOLIDOILSHALE.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDOILSHALE.NAME"
+msgid "<link=\"SOLIDOILSHALE\">Oil Shale</link>"
+msgstr "<link=\"SOLIDOILSHALE\">油页岩</link>"
+
+#. STRINGS.ELEMENTS.SOLIDSILVER.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDSILVER.DESC"
+msgid "(Ag) Silver is soft, white, lustrous transition metal, that exhibits a high electrical and thermal conductivity."
+msgstr "(Ag) 银是一种柔软、白色、有光泽的过渡金属，具有极高的导电性和导热性。"
+
+#. STRINGS.ELEMENTS.SOLIDSILVER.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDSILVER.NAME"
+msgid "<link=\"SOLIDSILVER\">Silver</link>"
+msgstr "<link=\"SOLIDSILVER\">银</link>"
+
+#. STRINGS.ELEMENTS.SOLIDSLAG.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDSLAG.DESC"
+msgid "Slag is a by-product of smelting (pyrometallurgical) ores and used metals. Despite being a waste product, it has many applications, such as aggregate in <link=\"CONCRETEBLOCK\">Concrete Blocks</link>."
+msgstr "矿渣是冶炼（高温冶金）矿石和金属的副产物。尽管是废弃物，但有多种用途，如用作<link=\"CONCRETEBLOCK\">混凝土块</link>的骨料。"
+
+#. STRINGS.ELEMENTS.SOLIDSLAG.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDSLAG.NAME"
+msgid "<link=\"SOLIDSLAG\">Slag</link>"
+msgstr "<link=\"SOLIDSLAG\">矿渣</link>"
+
+#. STRINGS.ELEMENTS.SOLIDZINC.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDZINC.DESC"
+msgid "(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly brittle metal."
+msgstr "(Zn) 锌是一种带蓝色光泽的白色抗磁金属，略显脆性。"
+
+#. STRINGS.ELEMENTS.SOLIDZINC.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDZINC.NAME"
+msgid "<link=\"SOLIDZINC\">Zinc</link>"
+msgstr "<link=\"SOLIDZINC\">锌</link>"
+
+#. STRINGS.ELEMENTS.SOURWATER.DESC
+msgctxt "STRINGS.ELEMENTS.SOURWATER.DESC"
+msgid "An aqueous solution of Hydrogen Sulfide (H<sub>2</sub>S>) and Ammonia (NH<sub>3</sub>). May occur naturally from aquifers exposed to hydrogen sulfide sources, but it is more common as a wastewater from industrial processes. "
+msgstr "一种含有硫化氢（H<sub>2</sub>S>）和氨（NH<sub>3</sub>）的水溶液。可自然形成于暴露于硫化氢源的含水层，但更常见于工业过程的废水。"
+
+#. STRINGS.ELEMENTS.SOURWATER.NAME
+msgctxt "STRINGS.ELEMENTS.SOURWATER.NAME"
+msgid "<link=\"SOURWATER\">Sour Water</link>"
+msgstr "<link=\"SOURWATER\">酸性水</link>"
+
+#. STRINGS.ELEMENTS.SULFURICGAS.DESC
+msgctxt "STRINGS.ELEMENTS.SULFURICGAS.DESC"
+msgid "(H<sub>2</sub>SO<sub>4</sub>) An acidic gas composed of the elements sulfur, oxygen and hydrogen. Presented in its gaseous state, it is a very dangerous chemical for its corrosive nature."
+msgstr "(H<sub>2</sub>SO<sub>4</sub>) 一种由硫、氧和氢组成的酸性气体。以气态存在，因其强腐蚀性而极其危险。"
+
+#. STRINGS.ELEMENTS.SULFURICGAS.NAME
+msgctxt "STRINGS.ELEMENTS.SULFURICGAS.NAME"
+msgid "<link=\"SULFURICGAS\">Sulfuric Gas</link>"
+msgstr "<link=\"SULFURICGAS\">硫酸气体</link>"
+
+#. STRINGS.ELEMENTS.TOXICCLAY.DESC
+msgctxt "STRINGS.ELEMENTS.TOXICCLAY.DESC"
+msgid "A sick looking, brittle clay produced as waste product from industrial operations, composed of many different chemical substances. "
+msgstr "一种外观不佳、易碎的黏土，由工业操作产生的废弃物，含有多种化学物质。"
+
+#. STRINGS.ELEMENTS.TOXICCLAY.NAME
+msgctxt "STRINGS.ELEMENTS.TOXICCLAY.NAME"
+msgid "<link=\"TOXICCLAY\">Toxic Clay</link>"
+msgstr "<link=\"TOXICCLAY\">有毒黏土</link>"
+
+#. STRINGS.ELEMENTS.TOXICGAS.DESC
+msgctxt "STRINGS.ELEMENTS.TOXICGAS.DESC"
+msgid "A heavy, foul smelling gas produced as waste product from industrial operations, composed of many different chemical substances."
+msgstr "一种由工业操作产生的废弃物，气味难闻且较重，含有多种化学物质。"
+
+#. STRINGS.ELEMENTS.TOXICGAS.NAME
+msgctxt "STRINGS.ELEMENTS.TOXICGAS.NAME"
+msgid "<link=\"TOXICGAS\">Toxic Gas</link>"
+msgstr "<link=\"TOXICGAS\">有毒气体</link>"
+
+#. STRINGS.ELEMENTS.TOXICSLURRY.DESC
+msgctxt "STRINGS.ELEMENTS.TOXICSLURRY.DESC"
+msgid "A thick, toxic slurry produced as waste product from industrial operations, composed of many different chemical substances."
+msgstr "一种由工业操作产生的废弃物，呈稠厚状，含有多种有毒化学物质。"
+
+#. STRINGS.ELEMENTS.TOXICSLURRY.NAME
+msgctxt "STRINGS.ELEMENTS.TOXICSLURRY.NAME"
+msgid "<link=\"TOXICSLURRY\">Toxic Slurry</link>"
+msgstr "<link=\"TOXICSLURRY\">有毒泥浆</link>"
+
+#. STRINGS.ELEMENTS.ZINCGAS.DESC
+msgctxt "STRINGS.ELEMENTS.ZINCGAS.DESC"
+msgid "(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous state."
+msgstr "(Zn) 锌是一种带蓝色光泽的白色抗磁金属，此为其气态状态。"
+
+#. STRINGS.ELEMENTS.ZINCGAS.NAME
+msgctxt "STRINGS.ELEMENTS.ZINCGAS.NAME"
+msgid "<link=\"ZINCGAS\">Zinc Gas</link>"
+msgstr "<link=\"ZINCGAS\">锌气体</link>"
+
+#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RAYONFIBER.DESC
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RAYONFIBER.DESC"
+msgid "Rayon is a synthetic fiber, chemically made from regenerated cellulose extracted from Lumber."
+msgstr "人造丝是一种合成纤维，由木材提取的再生纤维素化学制成。"
+
+#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RAYONFIBER.NAME
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RAYONFIBER.NAME"
+msgid "<link=\"RAYONFIBER\">Rayon Fiber</link>"
+msgstr "<link=\"RAYONFIBER\">人造丝纤维</link>"
+
+#. STRINGS.UI.COMETS.HEAVYCOMET.NAME
+msgctxt "STRINGS.UI.COMETS.HEAVYCOMET.NAME"
+msgid "Heavy Comet"
+msgstr "重型彗星"
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_UNITS
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_UNITS"
+msgid "个"
+msgstr "个"
+

@@ -1,0 +1,46 @@
+
+#. BetterLogicOverlay.MYSTRINGS.UNITMODIFIERS.thousand
+msgctxt "BetterLogicOverlay.MYSTRINGS.UNITMODIFIERS.thousand"
+msgid "k"
+msgstr "千"
+
+#. BetterLogicOverlay.MYSTRINGS.UNITS.CRITTER
+msgctxt "BetterLogicOverlay.MYSTRINGS.UNITS.CRITTER"
+msgid "c"
+msgstr "动物"
+
+#. BetterLogicOverlay.MYSTRINGS.UNITS.EGG
+msgctxt "BetterLogicOverlay.MYSTRINGS.UNITS.EGG"
+msgid "e"
+msgstr "蛋"
+
+#. BetterLogicOverlay.MYSTRINGS.UNITS.RAD
+msgctxt "BetterLogicOverlay.MYSTRINGS.UNITS.RAD"
+msgid "r"
+msgstr "辐射"
+
+#. BetterLogicOverlay.MYSTRINGS.UNITS.RADBOLT
+msgctxt "BetterLogicOverlay.MYSTRINGS.UNITS.RADBOLT"
+msgid "rb"
+msgstr "辐射粒子"
+
+#. BetterLogicOverlay.OPTIONS.DISPLAYLOGICSETTINGS.NAME
+msgctxt "BetterLogicOverlay.OPTIONS.DISPLAYLOGICSETTINGS.NAME"
+msgid "Display Logic Settings"
+msgstr "显示逻辑设置"
+
+#. BetterLogicOverlay.OPTIONS.DISPLAYLOGICSETTINGS.TOOLTIP
+msgctxt "BetterLogicOverlay.OPTIONS.DISPLAYLOGICSETTINGS.TOOLTIP"
+msgid "If true, logic gate and sensor settings will be displayed in the automation overlay."
+msgstr "如果为真，逻辑门和传感器设置将在自动化叠加层中显示。"
+
+#. BetterLogicOverlay.OPTIONS.FIXWIREOVERWRITE.NAME
+msgctxt "BetterLogicOverlay.OPTIONS.FIXWIREOVERWRITE.NAME"
+msgid "Fix Wire Overwriting"
+msgstr "修复导线覆盖"
+
+#. BetterLogicOverlay.OPTIONS.FIXWIREOVERWRITE.TOOLTIP
+msgctxt "BetterLogicOverlay.OPTIONS.FIXWIREOVERWRITE.TOOLTIP"
+msgid "If true, green signals will not make a red output port display as green."
+msgstr "如果为真，绿色信号不会使红色输出端口显示为绿色。"
+

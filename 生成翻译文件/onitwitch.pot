@@ -1,0 +1,1271 @@
+
+#. ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONEXTERIORPORTALCONFIG.DESC
+msgctxt "ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONEXTERIORPORTALCONFIG.DESC"
+msgid ""
+msgstr ""
+
+#. ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONEXTERIORPORTALCONFIG.EFFECT
+msgctxt "ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONEXTERIORPORTALCONFIG.EFFECT"
+msgid "A portal to an unknown dimension."
+msgstr "通往未知维度的传送门。"
+
+#. ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONEXTERIORPORTALCONFIG.NAME
+msgctxt "ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONEXTERIORPORTALCONFIG.NAME"
+msgid "Pocket Dimension Portal"
+msgstr "口袋维度传送门"
+
+#. ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONINTERIORPORTALCONFIG.DESC
+msgctxt "ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONINTERIORPORTALCONFIG.DESC"
+msgid ""
+msgstr ""
+
+#. ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONINTERIORPORTALCONFIG.EFFECT
+msgctxt "ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONINTERIORPORTALCONFIG.EFFECT"
+msgid "A portal that returns your duplicants back where they came from."
+msgstr "一个能让你的复制人返回原处的传送门。"
+
+#. ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONINTERIORPORTALCONFIG.NAME
+msgctxt "ONITwitch.STRINGS.BUILDINGS.PREFABS.ONITWITCH.POCKETDIMENSIONINTERIORPORTALCONFIG.NAME"
+msgid "Return Portal"
+msgstr "返回传送门"
+
+#. ONITwitch.STRINGS.CREATURES.SPECIES.ONITWITCH.GLITTERPUFT.DESC
+msgctxt "ONITwitch.STRINGS.CREATURES.SPECIES.ONITWITCH.GLITTERPUFT.DESC"
+msgid "A extraordinarily colorful and very pretty Puft"
+msgstr "一种极其多彩且非常漂亮的浮游生物"
+
+#. ONITwitch.STRINGS.CREATURES.SPECIES.ONITWITCH.GLITTERPUFT.NAME
+msgctxt "ONITwitch.STRINGS.CREATURES.SPECIES.ONITWITCH.GLITTERPUFT.NAME"
+msgid "Glitter Puft"
+msgstr "闪耀浮浮"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.ATHLETICS_DOWN.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.ATHLETICS_DOWN.NAME"
+msgid "Athletics Down"
+msgstr "运动下降"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.ATHLETICS_DOWN.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.ATHLETICS_DOWN.TOOLTIP"
+msgid "Caused by Twitch Chat"
+msgstr "由Twitch聊天引起"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.ATHLETICS_UP.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.ATHLETICS_UP.NAME"
+msgid "Athletics Up"
+msgstr "运动提升"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.ATHLETICS_UP.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.ATHLETICS_UP.TOOLTIP"
+msgid "Caused by Twitch Chat"
+msgstr "由Twitch聊天引起"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.CONSTRUCTION_DOWN.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.CONSTRUCTION_DOWN.NAME"
+msgid "Construction Down"
+msgstr "建造下降"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.CONSTRUCTION_DOWN.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.CONSTRUCTION_DOWN.TOOLTIP"
+msgid "Caused by Twitch Chat"
+msgstr "由Twitch聊天引起"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.CONSTRUCTION_UP.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.CONSTRUCTION_UP.NAME"
+msgid "Construction Up"
+msgstr "建造提升"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.CONSTRUCTION_UP.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.CONSTRUCTION_UP.TOOLTIP"
+msgid "Caused by Twitch Chat"
+msgstr "由Twitch聊天引起"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.EXCAVATION_DOWN.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.EXCAVATION_DOWN.NAME"
+msgid "Excavation Down"
+msgstr "挖掘下降"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.EXCAVATION_DOWN.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.EXCAVATION_DOWN.TOOLTIP"
+msgid "Caused by Twitch Chat"
+msgstr "由Twitch聊天引起"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.EXCAVATION_UP.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.EXCAVATION_UP.NAME"
+msgid "Excavation Up"
+msgstr "挖掘提升"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.EXCAVATION_UP.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.EXCAVATION_UP.TOOLTIP"
+msgid "Caused by Twitch Chat"
+msgstr "由Twitch聊天引起"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.SLEEPY.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.SLEEPY.NAME"
+msgid "Incredibly Sleepy"
+msgstr "极度困倦"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.SLEEPY.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.SLEEPY.TOOLTIP"
+msgid "Incredibly Exhausted"
+msgstr "极度疲惫"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.STRENGTH_DOWN.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.STRENGTH_DOWN.NAME"
+msgid "Strength Down"
+msgstr "力量下降"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.STRENGTH_DOWN.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.STRENGTH_DOWN.TOOLTIP"
+msgid "Caused by Twitch Chat"
+msgstr "由Twitch聊天引起"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.STRENGTH_UP.NAME
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.STRENGTH_UP.NAME"
+msgid "Strength Up"
+msgstr "力量提升"
+
+#. ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.STRENGTH_UP.TOOLTIP
+msgctxt "ONITwitch.STRINGS.DUPLICANTS.MODIFIERS.ONITWITCH.STRENGTH_UP.TOOLTIP"
+msgid "Caused by Twitch Chat"
+msgstr "由Twitch聊天引起"
+
+#. ONITwitch.STRINGS.ELEMENTS.ONITWITCHINDESTRUCTIBLEELEMENT.DESC
+msgctxt "ONITwitch.STRINGS.ELEMENTS.ONITWITCHINDESTRUCTIBLEELEMENT.DESC"
+msgid "(Nt) 中子质是一种神秘而极富弹性的元素。\n\n复制人的任何挖掘工具都无法挖掘它。"
+msgstr "(Nt) 中子质是一种神秘而极富弹性的元素。\n\n复制人的任何挖掘工具都无法挖掘它。"
+
+#. ONITwitch.STRINGS.ELEMENTS.ONITWITCHINDESTRUCTIBLEELEMENT.NAME
+msgctxt "ONITwitch.STRINGS.ELEMENTS.ONITWITCHINDESTRUCTIBLEELEMENT.NAME"
+msgid "<link=\"UNOBTANIUM\">Neutrollium</link>"
+msgstr "<link=\"UNOBTANIUM\">中子质</link>"
+
+#. ONITwitch.STRINGS.ELEMENTS.ONITWITCHSUPERINSULATOR.DESC
+msgctxt "ONITwitch.STRINGS.ELEMENTS.ONITWITCHSUPERINSULATOR.DESC"
+msgid "Some insulation that prevents its contents from immediately destroying your base. Don't worry, you don't get any resources out of this."
+msgstr "一种隔热材料，可以防止其内容物立即摧毁你的基地。别担心，你不会从中获得任何资源。"
+
+#. ONITwitch.STRINGS.ELEMENTS.ONITWITCHSUPERINSULATOR.NAME
+msgctxt "ONITwitch.STRINGS.ELEMENTS.ONITWITCHSUPERINSULATOR.NAME"
+msgid "Insulation"
+msgstr "绝缘体"
+
+#. ONITwitch.STRINGS.ITEMS.FOOD.ONITWITCH.GLITTERMEATCONFIG.DESC
+msgctxt "ONITwitch.STRINGS.ITEMS.FOOD.ONITWITCH.GLITTERMEATCONFIG.DESC"
+msgid "A piece of meat that glitters faintly.\n\n...It's best not to think about where it came from..."
+msgstr "一块微微闪光的肉。\n\n……最好不要想它是从哪里来的……"
+
+#. ONITwitch.STRINGS.ITEMS.FOOD.ONITWITCH.GLITTERMEATCONFIG.NAME
+msgctxt "ONITwitch.STRINGS.ITEMS.FOOD.ONITWITCH.GLITTERMEATCONFIG.NAME"
+msgid "Glitter Meat"
+msgstr "闪耀肉"
+
+#. ONITwitch.STRINGS.ITEMS.ONITWITCH.DEV_POCKET_DIMENSION_GENERATOR.DESC
+msgctxt "ONITwitch.STRINGS.ITEMS.ONITWITCH.DEV_POCKET_DIMENSION_GENERATOR.DESC"
+msgid "Generates a Pocket Dimension"
+msgstr "生成一个口袋维度"
+
+#. ONITwitch.STRINGS.ITEMS.ONITWITCH.DEV_POCKET_DIMENSION_GENERATOR.NAME
+msgctxt "ONITwitch.STRINGS.ITEMS.ONITWITCH.DEV_POCKET_DIMENSION_GENERATOR.NAME"
+msgid "Pocket Dimension Generator"
+msgstr "口袋维度生成器"
+
+#. ONITwitch.STRINGS.ITEMS.ONITWITCH.SURPRISEBOXCONFIG.DESC
+msgctxt "ONITwitch.STRINGS.ITEMS.ONITWITCH.SURPRISEBOXCONFIG.DESC"
+msgid ""
+msgstr ""
+
+#. ONITwitch.STRINGS.ITEMS.ONITWITCH.SURPRISEBOXCONFIG.EFFECT
+msgctxt "ONITwitch.STRINGS.ITEMS.ONITWITCH.SURPRISEBOXCONFIG.EFFECT"
+msgid "Deconstruct for a surprise!"
+msgstr "拆解可获得惊喜！"
+
+#. ONITwitch.STRINGS.ITEMS.ONITWITCH.SURPRISEBOXCONFIG.NAME
+msgctxt "ONITwitch.STRINGS.ITEMS.ONITWITCH.SURPRISEBOXCONFIG.NAME"
+msgid "Surprise Box"
+msgstr "惊喜盒子"
+
+#. ONITwitch.STRINGS.MISC.STATUSITEMS.ONITWITCH.GEYSERTEMPORARILYTUNED.NAME
+msgctxt "ONITwitch.STRINGS.MISC.STATUSITEMS.ONITWITCH.GEYSERTEMPORARILYTUNED.NAME"
+msgid "Geyser Temporarily Tuned"
+msgstr "间歇泉临时调谐"
+
+#. ONITwitch.STRINGS.MISC.STATUSITEMS.ONITWITCH.GEYSERTEMPORARILYTUNED.TOOLTIP
+msgctxt "ONITwitch.STRINGS.MISC.STATUSITEMS.ONITWITCH.GEYSERTEMPORARILYTUNED.TOOLTIP"
+msgid "This geyser is being temporarily modified for {time}"
+msgstr "该间歇泉将在{time}内被临时修改"
+
+#. ONITwitch.STRINGS.MISC.STATUSITEMS.ONITWITCH.POISONED.NAME
+msgctxt "ONITwitch.STRINGS.MISC.STATUSITEMS.ONITWITCH.POISONED.NAME"
+msgid "Poisoned"
+msgstr "中毒"
+
+#. ONITwitch.STRINGS.MISC.STATUSITEMS.ONITWITCH.POISONED.TOOLTIP
+msgctxt "ONITwitch.STRINGS.MISC.STATUSITEMS.ONITWITCH.POISONED.TOOLTIP"
+msgid "This duplicant is poisoned for {time}"
+msgstr "该复制人将在{time}内处于中毒状态"
+
+#. ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.CLOSING
+msgctxt "ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.CLOSING"
+msgid "Low Time Remaining"
+msgstr "剩余时间较少"
+
+#. ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.CRITERION_NAME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.CRITERION_NAME"
+msgid "Pocket Dimension closing soon"
+msgstr "口袋维度即将关闭"
+
+#. ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.DIAGNOSTIC_NAME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.DIAGNOSTIC_NAME"
+msgid "Time Remaining"
+msgstr "剩余时间"
+
+#. ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.ERROR
+msgctxt "ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.ERROR"
+msgid "Error"
+msgstr "错误"
+
+#. ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.NORMAL
+msgctxt "ONITwitch.STRINGS.ONITWITCH.DIAGNOSTICS.DIMENSION_CLOSING.NORMAL"
+msgid "Dimension Normal"
+msgstr "维度正常"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_ATHLETICS_DOWN
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_ATHLETICS_DOWN"
+msgid "Athletics Down"
+msgstr "运动下降"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_ATHLETICS_UP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_ATHLETICS_UP"
+msgid "Athletics Up"
+msgstr "运动提升"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_CONSTRUCTION_DOWN
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_CONSTRUCTION_DOWN"
+msgid "Construction Down"
+msgstr "建造下降"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_CONSTRUCTION_UP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_CONSTRUCTION_UP"
+msgid "Construction Up"
+msgstr "建造提升"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_EXCAVATION_DOWN
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_EXCAVATION_DOWN"
+msgid "Excavation Down"
+msgstr "挖掘下降"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_EXCAVATION_UP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_EXCAVATION_UP"
+msgid "Excavation Up"
+msgstr "挖掘提升"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_STRENGTH_DOWN
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_STRENGTH_DOWN"
+msgid "Strength Down"
+msgstr "力量下降"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_STRENGTH_UP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ATTRIBUTE_STRENGTH_UP"
+msgid "Strength Up"
+msgstr "力量提升"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.BANSHEE_WAIL
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.BANSHEE_WAIL"
+msgid "Banshee Wail"
+msgstr "女妖哀嚎"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.BEDROOM_SNOW
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.BEDROOM_SNOW"
+msgid "Snowy Bedrooms"
+msgstr "卧室降雪"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.BEDROOMS_SLIME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.BEDROOMS_SLIME"
+msgid "Slimy Bedrooms"
+msgstr "卧室变黏"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ECLIPSE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ECLIPSE"
+msgid "Eclipse"
+msgstr "日食"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_COMMON
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_COMMON"
+msgid "Spawn Common Element"
+msgstr "生成常见元素"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_DEADLY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_DEADLY"
+msgid "Spawn Deadly Element"
+msgstr "生成致命元素"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_EXOTIC
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_EXOTIC"
+msgid "Spawn Exotic Element"
+msgstr "生成稀有元素"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_GAS
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_GAS"
+msgid "Spawn Gas"
+msgstr "生成气体"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_LIQUID
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_LIQUID"
+msgid "Spawn Liquid"
+msgstr "生成液体"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_METAL
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ELEMENT_GROUP_METAL"
+msgid "Spawn Metal"
+msgstr "生成金属"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.FART
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.FART"
+msgid "Fart"
+msgstr "放屁"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_ETHANOL
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_ETHANOL"
+msgid "Ethanol Flood"
+msgstr "乙醇洪水"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_GOLD
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_GOLD"
+msgid "Gold Rain"
+msgstr "黄金雨"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_LAVA
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_LAVA"
+msgid "Lava Flood"
+msgstr "岩浆洪水"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_NUCLEAR_WASTE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_NUCLEAR_WASTE"
+msgid "Nuclear Waste Disposal Accident"
+msgstr "核废料泄漏事故"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_OIL
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_OIL"
+msgid "Oil Flood"
+msgstr "石油洪水"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_POLLUTED_WATER
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_POLLUTED_WATER"
+msgid "Polluted Water Flood"
+msgstr "污染水洪水"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_WATER
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.FLOOD_WATER"
+msgid "Water Flood"
+msgstr "清水洪水"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.GEYSER_MODIFICATION
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.GEYSER_MODIFICATION"
+msgid "Tune Geyser"
+msgstr "调谐间歇泉"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.GLOBAL_WARMING
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.GLOBAL_WARMING"
+msgid "Global Warming"
+msgstr "全球变暖"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.ICE_AGE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.ICE_AGE"
+msgid "Ice Age"
+msgstr "冰河时代"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.KILL_DUPE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.KILL_DUPE"
+msgid "Kill Duplicant"
+msgstr "杀死复制人"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.MORPH_CRITTERS
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.MORPH_CRITTERS"
+msgid "Morph Critters"
+msgstr "变异小动物"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.PARTY_TIME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.PARTY_TIME"
+msgid "Party Time"
+msgstr "派对时间"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.PEE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.PEE"
+msgid "Gold Rain"
+msgstr "黄金雨"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.POCKET_DIMENSION
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.POCKET_DIMENSION"
+msgid "Spawn Pocket Dimension"
+msgstr "生成口袋维度"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.POISON
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.POISON"
+msgid "Poison Duplicants"
+msgstr "使复制人中毒"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.POOPSPLOSION
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.POOPSPLOSION"
+msgid "Poopsplosion"
+msgstr "便便爆炸"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_BEE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_BEE"
+msgid "Bee Infestation"
+msgstr "蜜蜂侵扰"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_DIAMOND
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_DIAMOND"
+msgid "Diamond Rain"
+msgstr "钻石雨"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_GOLD
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_GOLD"
+msgid "Gold Rain"
+msgstr "黄金雨"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_MORB_AMORBUS
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_MORB_AMORBUS"
+msgid "Amorbus Rain"
+msgstr "阿莫浮游生物雨"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_MORB_NORMAL
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_MORB_NORMAL"
+msgid "Morbs!!!"
+msgstr "浮游生物！！！"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_PACU_NORMAL
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_PACU_NORMAL"
+msgid "Pacu Rain"
+msgstr "帕库鱼雨"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_PACU_PACUWU
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_PACU_PACUWU"
+msgid "PacUwU Rain 🐠👉👈"
+msgstr "帕库UwU雨 🐠👉👈"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_SLICKSTER
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RAIN_PREFAB_SLICKSTER"
+msgid "Slickster Rain"
+msgstr "滑溜兽雨"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.REDUCE_OXYGEN
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.REDUCE_OXYGEN"
+msgid "Un-include Oxygen"
+msgstr "减少氧气"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.RESEARCH_TECH
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.RESEARCH_TECH"
+msgid "Research Technology"
+msgstr "研究科技"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SKILL_POINTS
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SKILL_POINTS"
+msgid "Skilling Spree"
+msgstr "技能狂潮"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SLEEPY_DUPES
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SLEEPY_DUPES"
+msgid "Sleepy Dupes"
+msgstr "困倦复制人"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_ATMO_SUIT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_ATMO_SUIT"
+msgid "Spawn Atmo Suit"
+msgstr "生成大气服"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_CRAB
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_CRAB"
+msgid "Spawn Pokeshell"
+msgstr "生成刺壳蟹"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_DUPE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_DUPE"
+msgid "Spawn Duplicant"
+msgstr "生成复制人"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_GLITTER_PUFT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_GLITTER_PUFT"
+msgid "Spawn Glitter Puft"
+msgstr "生成闪耀浮浮"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_MOO_COMET
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_MOO_COMET"
+msgid "Spawn Gassy Mooteor"
+msgstr "生成气态牛陨石"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_SNAZZY_SUIT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_SNAZZY_SUIT"
+msgid "Spawn Snazzy Suit"
+msgstr "生成时髦服装"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_VACILLATOR_CHARGE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SPAWN_VACILLATOR_CHARGE"
+msgid "Spawn Vacillator Charge"
+msgstr "生成犹豫机充能"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SPICE_FOOD
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SPICE_FOOD"
+msgid "Spice Food"
+msgstr "调味食物"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.STRESS_ADD
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.STRESS_ADD"
+msgid "Add Stress"
+msgstr "增加压力"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.STRESS_REMOVE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.STRESS_REMOVE"
+msgid "Remove Stress"
+msgstr "减少压力"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SURPRISE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SURPRISE"
+msgid "Surprise!!!"
+msgstr "惊喜！！！"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.SURPRISE_BOX
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.SURPRISE_BOX"
+msgid "Surprise Box"
+msgstr "惊喜盒子"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.TILE_TEMP_DOWN
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.TILE_TEMP_DOWN"
+msgid "Icy Floors"
+msgstr "冰冷地板"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.TILE_TEMP_UP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.TILE_TEMP_UP"
+msgid "The Floor is Lava"
+msgstr "地板是岩浆"
+
+#. ONITwitch.STRINGS.ONITWITCH.EVENTS.UNINSULATE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.EVENTS.UNINSULATE"
+msgid "Uninsulate Tiles"
+msgstr "去除绝缘地板"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.BANSHEE_WAIL.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.BANSHEE_WAIL.BODY"
+msgid "All of your duplicants are releasing their urge to scream"
+msgstr "所有复制人都在释放他们的尖叫欲望"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.BANSHEE_WAIL.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.BANSHEE_WAIL.TITLE"
+msgid "Banshee Wail"
+msgstr "女妖哀嚎"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.ECLIPSE.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.ECLIPSE.BODY"
+msgid "A long darkness has enveloped the colony"
+msgstr "漫长的黑暗笼罩了殖民地"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.ECLIPSE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.ECLIPSE.TITLE"
+msgid "Eclipse"
+msgstr "日食"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.EFFECT.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.EFFECT.BODY_FORMAT"
+msgid "All dupes have had the {0} effect applied"
+msgstr "所有复制人都获得了{0}效果"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.EFFECT.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.EFFECT.TITLE"
+msgid "Effect Applied"
+msgstr "效果已应用"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.ELEMENT_GROUP.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.ELEMENT_GROUP.BODY_FORMAT"
+msgid "{0} has appeared"
+msgstr "{0}已出现"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.ELEMENT_GROUP.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.ELEMENT_GROUP.TITLE"
+msgid "Element Created"
+msgstr "元素已生成"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.END_VOTE_NO_OPTIONS.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.END_VOTE_NO_OPTIONS.BODY"
+msgid "No events were voted for"
+msgstr "没有事件被投票选中"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.END_VOTE_NO_OPTIONS.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.END_VOTE_NO_OPTIONS.TITLE"
+msgid "Vote Complete"
+msgstr "投票完成"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.FART.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.FART.BODY"
+msgid "All of your duplicants have farted. What was in that Frost Burger?"
+msgstr "所有复制人都放了一个屁。那冰霜汉堡里到底有什么？"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.FART.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.FART.TITLE"
+msgid "Fart"
+msgstr "放屁"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.FILL_BEDROOMS.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.FILL_BEDROOMS.BODY_FORMAT"
+msgid "{0} was placed in every bedroom"
+msgstr "每个卧室都放置了{0}"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.FILL_BEDROOMS.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.FILL_BEDROOMS.TITLE"
+msgid "Bedrooms Bombed"
+msgstr "卧室被轰炸"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.FLOOD.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.FLOOD.BODY_FORMAT"
+msgid "A flood of {0} was spawned"
+msgstr "生成了{0}洪水"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.FLOOD.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.FLOOD.TITLE"
+msgid "Flood"
+msgstr "洪水"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.GEYSER_MODIFICATION.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.GEYSER_MODIFICATION.BODY_FORMAT"
+msgid "Geyser {0} is temporarily tuned"
+msgstr "间歇泉{0}已被临时调谐"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.GEYSER_MODIFICATION.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.GEYSER_MODIFICATION.TITLE"
+msgid "Geyser Modified"
+msgstr "间歇泉已修改"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.GLOBAL_WARMING.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.GLOBAL_WARMING.BODY_FORMAT"
+msgid "Temperatures on {0} are on the rise"
+msgstr "{0}的温度正在上升"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.GLOBAL_WARMING.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.GLOBAL_WARMING.TITLE"
+msgid "Global Warming"
+msgstr "全球变暖"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.ICE_AGE.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.ICE_AGE.BODY_FORMAT"
+msgid "All liquids on {0} have frozen"
+msgstr "{0}上的所有液体都已冻结"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.ICE_AGE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.ICE_AGE.TITLE"
+msgid "Ice Age"
+msgstr "冰河时代"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.KILL_DUPE.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.KILL_DUPE.BODY_FORMAT"
+msgid "{0} died :("
+msgstr "{0}死了 :("
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.KILL_DUPE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.KILL_DUPE.TITLE"
+msgid "Duplicant Killed"
+msgstr "复制人死亡"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.MORPH.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.MORPH.BODY"
+msgid "All critters have been morphed"
+msgstr "所有小动物都已变异"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.MORPH.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.MORPH.TITLE"
+msgid "Critters Morphed"
+msgstr "小动物变异"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.PARTY_TIME.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.PARTY_TIME.BODY"
+msgid "The dupes are throwing a rainbow party!"
+msgstr "复制人正在举办彩虹派对！"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.PARTY_TIME.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.PARTY_TIME.TITLE"
+msgid "Party Time!"
+msgstr "派对时间！"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.PEE.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.PEE.BODY"
+msgid "All duplicants suddenly feel the need to relieve themselves"
+msgstr "所有复制人突然有了如厕的冲动"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.PEE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.PEE.TITLE"
+msgid "Pee Everywhere"
+msgstr "到处小便"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.POCKET_DIMENSION.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.POCKET_DIMENSION.BODY"
+msgid "A portal to a pocket dimension opened"
+msgstr "一个通往口袋维度的传送门已开启"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.POCKET_DIMENSION.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.POCKET_DIMENSION.TITLE"
+msgid "Pocket Dimension"
+msgstr "口袋维度"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.POISON.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.POISON.BODY"
+msgid "All duplicants are poisoned and will take damage over time"
+msgstr "所有复制人都中毒了，并会持续受到伤害"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.POISON.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.POISON.TITLE"
+msgid "Poisoned Dupes"
+msgstr "复制人中毒"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.POOPSPLOSION.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.POOPSPLOSION.BODY"
+msgid "All toilets have exploded with poop"
+msgstr "所有厕所都爆炸了，满是便便"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.POOPSPLOSION.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.POOPSPLOSION.TITLE"
+msgid "Poopsplosion"
+msgstr "便便爆炸"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.RAIN_PREFAB.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.RAIN_PREFAB.BODY_FORMAT"
+msgid "A rain of {0} is starting"
+msgstr "{0}雨开始了"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.RAIN_PREFAB.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.RAIN_PREFAB.TITLE"
+msgid "Rain"
+msgstr "降雨"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.REDUCE_OXYGEN.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.REDUCE_OXYGEN.BODY_FORMAT"
+msgid "The mass of all breathable elements was reduced by {0}%"
+msgstr "所有可呼吸元素的质量减少了{0}%"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.REDUCE_OXYGEN.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.REDUCE_OXYGEN.TITLE"
+msgid "Oxygen Reduced"
+msgstr "氧气减少"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.RESEARCH_TECH.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.RESEARCH_TECH.BODY_FORMAT"
+msgid "{0} has been researched"
+msgstr "{0}已被研究"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.RESEARCH_TECH.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.RESEARCH_TECH.TITLE"
+msgid "Technology Researched"
+msgstr "科技已研究"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SKILLS.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SKILLS.BODY"
+msgid "Some duplicants have been inspired and instantly gained a skill point"
+msgstr "部分复制人受到激励，立即获得技能点"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SKILLS.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SKILLS.TITLE"
+msgid "Skilling Spree"
+msgstr "技能狂潮"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SLEEPY_DUPES.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SLEEPY_DUPES.BODY"
+msgid "All duplicants are extremely exhausted"
+msgstr "所有复制人都极度疲惫"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SLEEPY_DUPES.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SLEEPY_DUPES.TITLE"
+msgid "Sleepy Dupes"
+msgstr "困倦复制人"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SPAWN_DUPE.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SPAWN_DUPE.BODY_FORMAT"
+msgid "{0} was brought into the world"
+msgstr "{0}被带到了这个世界"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SPAWN_DUPE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SPAWN_DUPE.TITLE"
+msgid "Spawning Duplicant"
+msgstr "生成复制人"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SPAWN_PREFAB.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SPAWN_PREFAB.BODY_FORMAT"
+msgid "A new {0} was created"
+msgstr "生成了新的{0}"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SPAWN_PREFAB.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SPAWN_PREFAB.TITLE"
+msgid "Spawning Object"
+msgstr "生成物体"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SPICE_FOOD.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SPICE_FOOD.BODY"
+msgid "All food has had spices applied"
+msgstr "所有食物都已加香料"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SPICE_FOOD.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SPICE_FOOD.TITLE"
+msgid "Spiced Food"
+msgstr "加香料的食物"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.STARTING_VOTE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.STARTING_VOTE.TITLE"
+msgid "Starting Vote"
+msgstr "开始投票"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.STRESS_DECREASE.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.STRESS_DECREASE.BODY"
+msgid "All duplicants are less stressed"
+msgstr "所有复制人压力减轻"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.STRESS_DECREASE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.STRESS_DECREASE.TITLE"
+msgid "Calming Wave"
+msgstr "平静浪潮"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.STRESS_INCREASE.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.STRESS_INCREASE.BODY"
+msgid "All duplicants are very stressed about life"
+msgstr "所有复制人都对生活感到非常有压力"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.STRESS_INCREASE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.STRESS_INCREASE.TITLE"
+msgid "Stress Wave"
+msgstr "压力浪潮"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SURPRISE_BOX.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SURPRISE_BOX.BODY"
+msgid "I wonder what is inside?"
+msgstr "里面会是什么呢？"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.SURPRISE_BOX.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.SURPRISE_BOX.TITLE"
+msgid "Surprise Box"
+msgstr "惊喜盒子"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.TILE_TEMP_DOWN.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.TILE_TEMP_DOWN.BODY"
+msgid "All constructed tiles are colder"
+msgstr "所有建造的地板都变冷了"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.TILE_TEMP_DOWN.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.TILE_TEMP_DOWN.TITLE"
+msgid "Icy Floors"
+msgstr "冰冷地板"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.TILE_TEMP_UP.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.TILE_TEMP_UP.BODY"
+msgid "All constructed tiles are warmer"
+msgstr "所有建造的地板都变热了"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.TILE_TEMP_UP.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.TILE_TEMP_UP.TITLE"
+msgid "The Floor is Lava"
+msgstr "地板是岩浆"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.UNINSULATE_TILES.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.UNINSULATE_TILES.BODY"
+msgid "Many tiles have been replaced with non-insulated versions"
+msgstr "许多地板已被替换为非绝缘版本"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.UNINSULATE_TILES.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.UNINSULATE_TILES.TITLE"
+msgid "Tiles Uninsulated"
+msgstr "地板去绝缘"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.WARNINGS.EVENT_FAILURE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.WARNINGS.EVENT_FAILURE"
+msgid "Event Failed"
+msgstr "事件失败"
+
+#. ONITwitch.STRINGS.ONITWITCH.TOASTS.WARNINGS.SPAWN_DUPE_FAILURE.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.TOASTS.WARNINGS.SPAWN_DUPE_FAILURE.BODY"
+msgid "Unable to find a position to spawn a duplicant at. This normally means that no printing pods or other dupes exist. If you believe this is incorrect, please file a bug report."
+msgstr "无法找到生成复制人的位置。通常意味着没有打印舱或其他复制人存在。如果你认为这是错误的，请提交错误报告。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.APPLY.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.APPLY.TEXT"
+msgid "Apply"
+msgstr "应用"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.CHANNEL_NAME.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.CHANNEL_NAME.TEXT"
+msgid "Channel Name"
+msgstr "频道名称"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.CHANNEL_NAME.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.CHANNEL_NAME.TOOLTIP"
+msgid "The name of the Twitch channel to interact with. This should be your username. (example: asquared31415)"
+msgstr "要互动的Twitch频道名称。应为你的用户名。（例如：asquared31415）"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.EDIT.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.EDIT.TEXT"
+msgid "Edit Event Config"
+msgstr "编辑事件配置"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.EDIT.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.EDIT.TOOLTIP"
+msgid "Opens a page in a browser to edit the current event config. (WARNING: SPOILERS! All events are shown.)"
+msgstr "在浏览器中打开页面以编辑当前事件配置。（警告：剧透！所有事件都会显示。）"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.MAX_DANGER.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.MAX_DANGER.TEXT"
+msgid "Max Danger"
+msgstr "最大危险等级"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.MAX_DANGER.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.MAX_DANGER.TOOLTIP"
+msgid "Events with a danger greater than this setting will not appear."
+msgstr "危险等级高于此设置的事件不会出现。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.MIN_DANGER.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.MIN_DANGER.TEXT"
+msgid "Min Danger"
+msgstr "最小危险等级"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.MIN_DANGER.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.MIN_DANGER.TOOLTIP"
+msgid "Events with a danger less than this setting will not appear."
+msgstr "危险等级低于此设置的事件不会出现。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.OPTIONS_PER_VOTE.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.OPTIONS_PER_VOTE.TEXT"
+msgid "Options per Vote (1-5)"
+msgstr "每次投票选项数（1-5）"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.OPTIONS_PER_VOTE.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.OPTIONS_PER_VOTE.TOOLTIP"
+msgid "The number of options that should be available to vote for."
+msgstr "可供投票的选项数量。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.PHOTOSENSITIVE_MODE.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.PHOTOSENSITIVE_MODE.TEXT"
+msgid "Light Sensitivity Mode"
+msgstr "光敏感模式"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.PHOTOSENSITIVE_MODE.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.PHOTOSENSITIVE_MODE.TOOLTIP"
+msgid "If this setting is enabled, events that use rapidly changing colors or lights will not occur."
+msgstr "启用此设置后，使用快速变色或闪光的事件将不会发生。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.SHOW_START_TOASTS.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.SHOW_START_TOASTS.TEXT"
+msgid "Show Vote Choice Notifications"
+msgstr "显示投票选项通知"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.SHOW_START_TOASTS.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.SHOW_START_TOASTS.TOOLTIP"
+msgid "Whether to show notifications when a vote starts. This can be disabled if you want to not know what options chat has."
+msgstr "是否在投票开始时显示通知。如果你不想知道聊天的选项，可以关闭此项。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.SHOW_TOASTS.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.SHOW_TOASTS.TEXT"
+msgid "Show Notifications"
+msgstr "显示通知"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.SHOW_TOASTS.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.SHOW_TOASTS.TOOLTIP"
+msgid "Whether to show any notifications from the Twitch Integration mod or any events."
+msgstr "是否显示Twitch集成模组或任何事件的通知。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.TIME_BETWEEN_VOTES.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.TIME_BETWEEN_VOTES.TEXT"
+msgid "Time Between Votes"
+msgstr "投票间隔时间"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.TIME_BETWEEN_VOTES.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.TIME_BETWEEN_VOTES.TOOLTIP"
+msgid "The amount of real time, in seconds, that should pass between the end of one vote and the start of the next. (example: 600)"
+msgstr "每次投票结束到下次投票开始之间的实际时间（秒）。（例如：600）"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.TITLE"
+msgid "Twitch Integration Settings"
+msgstr "Twitch集成设置"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.USE_TWITCH_COLORS.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.USE_TWITCH_COLORS.TEXT"
+msgid "Use Twitch Username Colors"
+msgstr "使用Twitch用户名颜色"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.USE_TWITCH_COLORS.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.USE_TWITCH_COLORS.TOOLTIP"
+msgid "Whether to copy a chatter's username color to their duplicant's name, if they are spawned. Note: If a user has not set their username color manually, the chosen color may be different than the color you see."
+msgstr "如果生成了复制人，是否将聊天者的用户名颜色应用到他们的复制人名字上。注意：如果用户未手动设置用户名颜色，所选颜色可能与您看到的不同。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.VOTING_TIME.TEXT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.VOTING_TIME.TEXT"
+msgid "Voting Time"
+msgstr "投票时间"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.VOTING_TIME.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.CONFIG.VOTING_TIME.TOOLTIP"
+msgid "The amount of real time, in seconds, that a vote should be active for. (example: 60)"
+msgstr "每次投票持续的实际时间（秒）。（例如：60）"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DANGER.DEADLY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DANGER.DEADLY"
+msgid "Deadly"
+msgstr "致命"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DANGER.EXTREME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DANGER.EXTREME"
+msgid "Extreme"
+msgstr "极端"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DANGER.HIGH
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DANGER.HIGH"
+msgid "High"
+msgstr "高"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DANGER.MEDIUM
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DANGER.MEDIUM"
+msgid "Medium"
+msgstr "中等"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DANGER.NONE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DANGER.NONE"
+msgid "None"
+msgstr "无"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DANGER.SMALL
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DANGER.SMALL"
+msgid "Small"
+msgstr "低"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.CONNECTION_ERROR.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.CONNECTION_ERROR.BODY_FORMAT"
+msgid "The connection to Twitch failed {0} times. This may be caused by a bad internet connection or invalid credentials."
+msgstr "连接Twitch失败{0}次。可能是网络连接不佳或凭据无效导致的。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.CONNECTION_ERROR.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.CONNECTION_ERROR.TITLE"
+msgid "Connection Error"
+msgstr "连接错误"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.DEADLY_CONFIG.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.DEADLY_CONFIG.BODY"
+msgid "The Deadly danger has events that can <color=#FE2F2FFF><i><b>directly kill your duplicants</b></i></color> or cause extremely deadly things to happen, often with no opportunity to prevent it.  Do not get too attached to your dupes."
+msgstr "致命危险包含一些事件，这些事件可能会<color=#FE2F2FFF><i><b>直接杀死你的复制人</b></i></color>，或导致极其致命的后果，通常没有机会阻止。不要对你的复制人太过依恋"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.DEADLY_CONFIG.CONTINUE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.DEADLY_CONFIG.CONTINUE"
+msgid "<color=#FE2F2FFF>Continue</color>"
+msgstr "<color=#FE2F2FFF>继续</color>"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.DEADLY_CONFIG.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.DEADLY_CONFIG.TITLE"
+msgid "Deadly Settings"
+msgstr "致命设置"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.EVENT_CONFIG.PASTE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.EVENT_CONFIG.PASTE"
+msgid "Paste Config Here"
+msgstr "在此粘贴配置"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.EVENT_CONFIG.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.EVENT_CONFIG.TITLE"
+msgid "Twitch Integration Event Config"
+msgstr "Twitch集成事件配置"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.EVENT_ERROR.BODY_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.EVENT_ERROR.BODY_FORMAT"
+msgid "Event {0} crashed while being run: {1}.\nStopping votes.\nPlease report this error (and provide the log) to that event's author."
+msgstr "事件{0}运行时崩溃：{1}。\n已停止投票。\n请将此错误（并附上日志）报告给该事件的作者。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.EVENT_ERROR.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.EVENT_ERROR.TITLE"
+msgid "Event Error"
+msgstr "事件错误"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.CONNECTION_OAUTH_ERR
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.CONNECTION_OAUTH_ERR"
+msgid "An unknown error occured when validating your OAuth token with Twitch. (No response from server)"
+msgstr "验证OAuth令牌时发生未知错误。（服务器无响应）"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.EXPIRED_OAUTH
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.EXPIRED_OAUTH"
+msgid "The OAuth token is invalid or has expired. Using an anonymous login instead. Please generate a new token following the instructions in the README."
+msgstr "OAuth令牌无效或已过期。将使用匿名登录。请按照README中的说明生成新令牌。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.INVALID_FILE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.INVALID_FILE"
+msgid "The credentials file was broken and has been reset, please follow the instructions in the README."
+msgstr "凭据文件已损坏并已重置，请按照README中的说明操作。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.INVALID_NICK
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.INVALID_NICK"
+msgid "The Twitch nickname in the credentials file was not a valid nickname. Using an anonymous login instead."
+msgstr "凭据文件中的Twitch昵称无效。将使用匿名登录。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.MALFORMED_OAUTH
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.MALFORMED_OAUTH"
+msgid "Invalid OAuth token!\nThe OAuth token should be composed of only numbers and letters. Using an anonymous login instead."
+msgstr "OAuth令牌无效！\nOAuth令牌应仅由数字和字母组成。将使用匿名登录。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.NICK_CONTAINS_SLASH
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.NICK_CONTAINS_SLASH"
+msgid "The Twitch nickname in the credentials file contained a slash. Using an anonymous login instead. The nickname should be <i>only</i> the name you use to log in to Twitch."
+msgstr "凭据文件中的Twitch昵称包含斜杠。将使用匿名登录。昵称应<i>仅为</i>你用于登录Twitch的名称。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.NO_LOGIN
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.NO_LOGIN"
+msgid "The credentials file does not have a Twitch nickname set. Using an anonymous login instead."
+msgstr "凭据文件未设置Twitch昵称。将使用匿名登录。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.TITLE"
+msgid "Invalid Credentials"
+msgstr "凭据无效"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.UNKNOWN_OAUTH_ERR
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_CREDENTIALS.UNKNOWN_OAUTH_ERR"
+msgid "An unknown error occured when validating your OAuth token with Twitch. Using an anonymous login instead."
+msgstr "验证OAuth令牌时发生未知错误。将使用匿名登录。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_EVENT_CONFIG.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_EVENT_CONFIG.BODY"
+msgid "The config provided was invalid"
+msgstr "提供的配置无效"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_EVENT_CONFIG.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.INVALID_EVENT_CONFIG.TITLE"
+msgid "Invalid Config"
+msgstr "配置无效"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.NO_VOTES.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.NO_VOTES.BODY"
+msgid "No events were able to be drawn."
+msgstr "无法抽取任何事件。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.NO_VOTES.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.NO_VOTES.TITLE"
+msgid "Cannot Start Vote"
+msgstr "无法开始投票"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.NOT_AUTHENTICATED.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.NOT_AUTHENTICATED.BODY"
+msgid "You are not authenticated with Twitch. The vote cannot be started. This may be caused by incorrect or missing credentials."
+msgstr "你未通过Twitch身份验证，无法开始投票。可能是凭据错误或缺失导致。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.NOT_AUTHENTICATED.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.NOT_AUTHENTICATED.TITLE"
+msgid "Not Authenticated"
+msgstr "未认证"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNKNOWN_SAVE.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNKNOWN_SAVE.BODY"
+msgid "An unknown version of the Twitch Integration config was encountered and the config had to be reset. Your old config has been saved to config_bak.json."
+msgstr "检测到未知版本的Twitch集成配置，配置已被重置。你的旧配置已保存为config_bak.json。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNKNOWN_SAVE.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNKNOWN_SAVE.TITLE"
+msgid "Unknown Save Version"
+msgstr "未知存档版本"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.BACK
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.BACK"
+msgid "Go Back"
+msgstr "返回"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.BODY
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.BODY"
+msgid "There are unsaved changes."
+msgstr "有未保存的更改。"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.DISCARD
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.DISCARD"
+msgid "Discard Changes"
+msgstr "放弃更改"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.SAVE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.SAVE"
+msgid "Save Changes"
+msgstr "保存更改"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.TITLE
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.DIALOGS.UNSAVED_CONFIG.TITLE"
+msgid "Unsaved Changes"
+msgstr "未保存的更改"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.MAIN_MENU.NEW_SETTINGS
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.MAIN_MENU.NEW_SETTINGS"
+msgid "New Twitch Integration Settings"
+msgstr "新的Twitch集成设置"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.PAUSE_MENU.START_VOTES
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.PAUSE_MENU.START_VOTES"
+msgid "Start Voting"
+msgstr "开始投票"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.POCKET_DIMENSION_EXTERIOR_SIDE_SCREEN.NAME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.POCKET_DIMENSION_EXTERIOR_SIDE_SCREEN.NAME"
+msgid "View Dimension"
+msgstr "查看维度"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.POCKET_DIMENSION_EXTERIOR_SIDE_SCREEN.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.POCKET_DIMENSION_EXTERIOR_SIDE_SCREEN.TOOLTIP"
+msgid "View the dimension that this portal is attached to"
+msgstr "查看该传送门所连接的维度"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.POCKET_DIMENSION_INTERIOR_SIDE_SCREEN.NAME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.POCKET_DIMENSION_INTERIOR_SIDE_SCREEN.NAME"
+msgid "View Parent"
+msgstr "查看父世界"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.POCKET_DIMENSION_INTERIOR_SIDE_SCREEN.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.POCKET_DIMENSION_INTERIOR_SIDE_SCREEN.TOOLTIP"
+msgid "View the world that holds this dimension"
+msgstr "查看包含此维度的世界"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.SETTINGS.BUTTON_NAME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.SETTINGS.BUTTON_NAME"
+msgid "Settings"
+msgstr "设置"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.SURPRISE_BOX_SIDE_SCREEN.NAME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.SURPRISE_BOX_SIDE_SCREEN.NAME"
+msgid "Open"
+msgstr "打开"
+
+#. ONITwitch.STRINGS.ONITWITCH.UI.SURPRISE_BOX_SIDE_SCREEN.TOOLTIP
+msgctxt "ONITwitch.STRINGS.ONITWITCH.UI.SURPRISE_BOX_SIDE_SCREEN.TOOLTIP"
+msgid "Open this box to receive your surprise!"
+msgstr "打开此盒子以获得惊喜！"
+
+#. ONITwitch.STRINGS.ONITWITCH.VOTE_CONTROLLER.CHOSEN_VOTE_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.VOTE_CONTROLLER.CHOSEN_VOTE_FORMAT"
+msgid "The chosen vote was {0} with {1} votes"
+msgstr "选中的投票是{0}，共{1}票"
+
+#. ONITwitch.STRINGS.ONITWITCH.VOTE_CONTROLLER.NO_VOTES
+msgctxt "ONITwitch.STRINGS.ONITWITCH.VOTE_CONTROLLER.NO_VOTES"
+msgid "No options were voted for"
+msgstr "没有选项被投票"
+
+#. ONITwitch.STRINGS.ONITWITCH.VOTE_CONTROLLER.START_VOTE_HEADER
+msgctxt "ONITwitch.STRINGS.ONITWITCH.VOTE_CONTROLLER.START_VOTE_HEADER"
+msgid "Starting new vote! "
+msgstr "开始新一轮投票！"
+
+#. ONITwitch.STRINGS.ONITWITCH.VOTE_INFO_FILE.ERROR
+msgctxt "ONITwitch.STRINGS.ONITWITCH.VOTE_INFO_FILE.ERROR"
+msgid "An error occurred"
+msgstr "发生错误"
+
+#. ONITwitch.STRINGS.ONITWITCH.VOTE_INFO_FILE.IN_PROGRESS_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.VOTE_INFO_FILE.IN_PROGRESS_FORMAT"
+msgid "Current Vote: ({0:F0}s)\n{1}"
+msgstr "当前投票：({0:F0}秒)\n{1}"
+
+#. ONITwitch.STRINGS.ONITWITCH.VOTE_INFO_FILE.NOT_STARTED
+msgctxt "ONITwitch.STRINGS.ONITWITCH.VOTE_INFO_FILE.NOT_STARTED"
+msgid "Voting not yet started"
+msgstr "投票尚未开始"
+
+#. ONITwitch.STRINGS.ONITWITCH.VOTE_INFO_FILE.VOTE_OVER_FORMAT
+msgctxt "ONITwitch.STRINGS.ONITWITCH.VOTE_INFO_FILE.VOTE_OVER_FORMAT"
+msgid "Vote Over ({0:F0} seconds to next vote)"
+msgstr "投票结束（距离下次投票还有{0:F0}秒）"
+
+#. ONITwitch.STRINGS.ONITWITCH.WORLDS.POCKET_DIMENSION.NAME
+msgctxt "ONITwitch.STRINGS.ONITWITCH.WORLDS.POCKET_DIMENSION.NAME"
+msgid "Pocket Dimension"
+msgstr "口袋维度"
+

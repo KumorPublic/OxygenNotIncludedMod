@@ -1,0 +1,116 @@
+
+#. LogicSatellites.STRINGS.BUILDINGS.PREFABS.LS_SATELLITECARRIERMODULE.DESC
+msgctxt "LogicSatellites.STRINGS.BUILDINGS.PREFABS.LS_SATELLITECARRIERMODULE.DESC"
+msgid "Stores and delivers Satellites to orbit."
+msgstr "存储并将卫星送入轨道。"
+
+#. LogicSatellites.STRINGS.BUILDINGS.PREFABS.LS_SATELLITECARRIERMODULE.EFFECT
+msgctxt "LogicSatellites.STRINGS.BUILDINGS.PREFABS.LS_SATELLITECARRIERMODULE.EFFECT"
+msgid "The Satellite Carrier Module is used to deploy and retrieve satellites on the star map\n\nA satellite can be constructed from satellite parts, made at the <link=\"CRAFTINGTABLE\">Crafting Station</link>"
+msgstr "卫星运输舱用于在星图上部署和回收卫星。\n\n卫星可以由卫星部件在<link=\"CRAFTINGTABLE\">制作台</link>制造。"
+
+#. LogicSatellites.STRINGS.BUILDINGS.PREFABS.LS_SATELLITECARRIERMODULE.NAME
+msgctxt "LogicSatellites.STRINGS.BUILDINGS.PREFABS.LS_SATELLITECARRIERMODULE.NAME"
+msgid "Satellite Carrier Module"
+msgstr "卫星运输舱"
+
+#. LogicSatellites.STRINGS.ITEMS.LS_CLUSTERSATELLITEPART.DESC
+msgctxt "LogicSatellites.STRINGS.ITEMS.LS_CLUSTERSATELLITEPART.DESC"
+msgid "These parts are used to build a satellite in the <link=\"LSSATELLITECARRIERMODULE\">Satellite Carrier Module</link>."
+msgstr "这些部件用于在<link=\"LSSATELLITECARRIERMODULE\">卫星运输舱</link>中组装卫星。"
+
+#. LogicSatellites.STRINGS.ITEMS.LS_CLUSTERSATELLITEPART.TITLE
+msgctxt "LogicSatellites.STRINGS.ITEMS.LS_CLUSTERSATELLITEPART.TITLE"
+msgid "Satellite Parts"
+msgstr "卫星部件"
+
+#. LogicSatellites.STRINGS.ITEMS.LS_SATELLITEGRID.DESC
+msgctxt "LogicSatellites.STRINGS.ITEMS.LS_SATELLITEGRID.DESC"
+msgid "This Satellite monitors the space around its location and amplifies interplanetary logic signals.\n\n\nThis Satellite will gradually reveal the space around it up to a radius of 5.\n\nIt will also amplify a logic signal by redirecting it up to 8 Tiles further"
+msgstr "该卫星监控其周围空间并增强星际逻辑信号。\n\n\n该卫星会逐步揭示其周围半径5格的空间。\n\n它还可以将逻辑信号延伸8格。"
+
+#. LogicSatellites.STRINGS.ITEMS.LS_SATELLITEGRID.TITLE
+msgctxt "LogicSatellites.STRINGS.ITEMS.LS_SATELLITEGRID.TITLE"
+msgid "Satellite"
+msgstr "卫星"
+
+#. LogicSatellites.STRINGS.ITEMS.SATELLITE.DESC
+msgctxt "LogicSatellites.STRINGS.ITEMS.SATELLITE.DESC"
+msgid "Deploy this satellite on the star map to create a logic relay "
+msgstr "在星图上部署该卫星以创建逻辑中继。"
+
+#. LogicSatellites.STRINGS.ITEMS.SATELLITE.SATELLITETYPES.EXPLORATION
+msgctxt "LogicSatellites.STRINGS.ITEMS.SATELLITE.SATELLITETYPES.EXPLORATION"
+msgid "Exploration "
+msgstr "探索型"
+
+#. LogicSatellites.STRINGS.ITEMS.SATELLITE.SATELLITETYPES.EXPLORATIONDESC
+msgctxt "LogicSatellites.STRINGS.ITEMS.SATELLITE.SATELLITETYPES.EXPLORATIONDESC"
+msgid "and slowly reveal the surrounding hexes"
+msgstr "并逐步揭示周围的六边形区域"
+
+#. LogicSatellites.STRINGS.ITEMS.SATELLITE.SATELLITETYPES.SOLAR
+msgctxt "LogicSatellites.STRINGS.ITEMS.SATELLITE.SATELLITETYPES.SOLAR"
+msgid "Solar Lens "
+msgstr "太阳透镜"
+
+#. LogicSatellites.STRINGS.ITEMS.SATELLITE.SATELLITETYPES.SOLARDESC
+msgctxt "LogicSatellites.STRINGS.ITEMS.SATELLITE.SATELLITETYPES.SOLARDESC"
+msgid "and concentrate light towards the planet below."
+msgstr "并将光线集中到下方的星球。"
+
+#. LogicSatellites.STRINGS.ITEMS.SATELLITE.TITLE
+msgctxt "LogicSatellites.STRINGS.ITEMS.SATELLITE.TITLE"
+msgid "Satellite"
+msgstr "卫星"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONLABEL_HASSAT_FALSE
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONLABEL_HASSAT_FALSE"
+msgid "Retrieve Satellite"
+msgstr "回收卫星"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONLABEL_HASSAT_TRUE
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONLABEL_HASSAT_TRUE"
+msgid "Deploy Satellite"
+msgstr "部署卫星"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONTOOLTIP_CHANGEMODE
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONTOOLTIP_CHANGEMODE"
+msgid "Change the operation the module should perform"
+msgstr "更改模块应执行的操作"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONTOOLTIP_DEPLOY
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONTOOLTIP_DEPLOY"
+msgid "Deploys a satellite at the current space hex."
+msgstr "在当前空间格部署卫星。"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONTOOLTIP_RETRIEVE
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.BUTTONTOOLTIP_RETRIEVE"
+msgid "Retrieves a satellite from the current space hex"
+msgstr "从当前空间格回收卫星"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.CURRENTSATELLITETYPE
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.CURRENTSATELLITETYPE"
+msgid "Current Satellite Configuration:\n{0}"
+msgstr "当前卫星配置：\n{0}"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.SCRAPSATELLITETOOLTIP
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.SCRAPSATELLITETOOLTIP"
+msgid "Scrap the satellite to retrieve the parts"
+msgstr "拆解卫星以回收部件"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.TITLE
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.TITLE"
+msgid "Satellite Carrier"
+msgstr "卫星运输舱"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.TITLELABEL_HASSAT_FALSE
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.TITLELABEL_HASSAT_FALSE"
+msgid "No Satellite in storage"
+msgstr "存储中无卫星"
+
+#. LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.TITLELABEL_HASSAT_TRUE
+msgctxt "LogicSatellites.STRINGS.UI.UISIDESCREENS.SATELLITECARRIER_SIDESCREEN.TITLELABEL_HASSAT_TRUE"
+msgid "{0} stored."
+msgstr "已存储：{0}"
+

@@ -1,0 +1,85 @@
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_REINFORCEDLADDER.DESC
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_REINFORCEDLADDER.DESC"
+msgid "Sturdy and quick to climb!"
+msgstr "坚固且易于攀爬！"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_REINFORCEDLADDER.EFFECT
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_REINFORCEDLADDER.EFFECT"
+msgid "Increases duplicant climbing speed. Immune to meteors"
+msgstr "提升复制人攀爬速度。可抵御流星撞击"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_REINFORCEDLADDER.NAME
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_REINFORCEDLADDER.NAME"
+msgid "<link=\"RTBREINFORCEDLADDER\">Reinforced Ladder</link>"
+msgstr "<link=\"RTBREINFORCEDLADDER\">强化梯子</link>"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_WALLCONNECTIONADAPTERBUNKER.DESC
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_WALLCONNECTIONADAPTERBUNKER.DESC"
+msgid "Bunkered down for convenience."
+msgstr "为方便而加固防护。"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_WALLCONNECTIONADAPTERBUNKER.EFFECT
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_WALLCONNECTIONADAPTERBUNKER.EFFECT"
+msgid "A bunker wall adapter to seal off rocket start areas.\n\nAutomatically links when built to the side of a <link=\"LAUNCHPAD\">火箭平台</link> or another <link=\"MODULARLAUNCHPADPORTSOLID\">火箭端口</link>"
+msgstr "用于封闭火箭发射区的加固墙适配器。\n\n建造在<link=\"LAUNCHPAD\">火箭平台</link>或另一个<link=\"MODULARLAUNCHPADPORTSOLID\">火箭端口</link>旁时会自动连接。"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_WALLCONNECTIONADAPTERBUNKER.NAME
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_WALLCONNECTIONADAPTERBUNKER.NAME"
+msgid "<link=\"RTBWALLCONNECTIONADAPTERBUNKER\">Bunkered Rocket Port Wall Adapter</link>"
+msgstr "<link=\"RTBWALLCONNECTIONADAPTERBUNKER\">加固火箭端口墙适配器</link>"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_CONNECTORRBYPASSADAPTER.DESC
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_CONNECTORRBYPASSADAPTER.DESC"
+msgid ""
+msgstr ""
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_CONNECTORRBYPASSADAPTER.EFFECT
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_CONNECTORRBYPASSADAPTER.EFFECT"
+msgid ""
+msgstr ""
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_CONNECTORRBYPASSADAPTER.NAME
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_CONNECTORRBYPASSADAPTER.NAME"
+msgid "<link=\"RTBWALLCONNECTIONADAPTERBUNKER\">未知</link>"
+msgstr "<link=\"RTBWALLCONNECTIONADAPTERBUNKER\">未知</link>"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.DESC
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.DESC"
+msgid "Always forget to bring your stuff - now you don't!"
+msgstr "总是忘记带东西——现在不会了！"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.EFFECT
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.EFFECT"
+msgid "Allows to set custom rocket launch conditions via automation signal"
+msgstr "允许通过自动化信号设置自定义火箭发射条件"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.LOGIC_PORT
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.LOGIC_PORT"
+msgid "Fulfill custom launch condition"
+msgstr "满足自定义发射条件"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.LOGIC_PORT_ACTIVE
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.LOGIC_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Custom rocket launch condition will be marked as completed"
+msgstr "<b><style=\"logic_on\">绿色信号</style></b>：自定义火箭发射条件将被标记为已完成"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.LOGIC_PORT_INACTIVE
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.LOGIC_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Custom rocket launch condition will be marked as missing, preventing automatic rocket launches."
+msgstr "<b><style=\"logic_off\">红色信号</style></b>：自定义火箭发射条件将被标记为缺失，阻止自动火箭发射。"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.NAME
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.NAME"
+msgid "<link=\"RTBROCKETLOGICLAUNCHCONDITIONSETTER\">Launch Condition Sender</link>"
+msgstr "<link=\"RTBROCKETLOGICLAUNCHCONDITIONSETTER\">发射条件发送器</link>"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.STATUSITEM_TOOLTIP_ACTIVE
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.STATUSITEM_TOOLTIP_ACTIVE"
+msgid "The custom condition \"{0}\" is completed"
+msgstr "自定义条件 \"{0}\" 已完成"
+
+#. Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.STATUSITEM_TOOLTIP_INACTIVE
+msgctxt "Rockets_TinyYetBig.STRINGS.BUILDINGS.PREFABS.RTB_ROCKETLOGICLAUNCHCONDITIONSETTER.STATUSITEM_TOOLTIP_INACTIVE"
+msgid "The custom condition \"{0}\" is incomplete!"
+msgstr "自定义条件 \"{0}\" 未完成！"
+

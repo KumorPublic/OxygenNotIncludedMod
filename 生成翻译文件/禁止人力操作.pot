@@ -1,0 +1,31 @@
+
+#. NoManualDelivery.STRINGS.OPTIONS.ALLOWALWAYSPICKUPEDIBLE.NAME
+msgctxt "NoManualDelivery.STRINGS.OPTIONS.ALLOWALWAYSPICKUPEDIBLE.NAME"
+msgid "Duplicants can always pick up Food and Medicine."
+msgstr "复制人始终可以拾取食物和药品。"
+
+#. NoManualDelivery.STRINGS.OPTIONS.ALLOWALWAYSPICKUPEDIBLE.TOOLTIP
+msgctxt "NoManualDelivery.STRINGS.OPTIONS.ALLOWALWAYSPICKUPEDIBLE.TOOLTIP"
+msgid "Duplicants will ignore the {ALLOWMANUALBUTTON} checkbox when picking up food and medicine to eat it."
+msgstr "复制人在拾取食物和药品以食用时会忽略{ALLOWMANUALBUTTON}复选框。"
+
+#. NoManualDelivery.STRINGS.OPTIONS.ALLOWALWAYSPICKUPKETTLE.NAME
+msgctxt "NoManualDelivery.STRINGS.OPTIONS.ALLOWALWAYSPICKUPKETTLE.NAME"
+msgid "Duplicants can always pick up Water from {ICEKETTLE}."
+msgstr "复制人始终可以从{ICEKETTLE}取水。"
+
+#. NoManualDelivery.STRINGS.OPTIONS.ALLOWALWAYSPICKUPKETTLE.TOOLTIP
+msgctxt "NoManualDelivery.STRINGS.OPTIONS.ALLOWALWAYSPICKUPKETTLE.TOOLTIP"
+msgid "Duplicants will ignore the {ALLOWMANUALBUTTON} checkbox when picking up Water from {ICEKETTLE}."
+msgstr "复制人在从{ICEKETTLE}取水时会忽略{ALLOWMANUALBUTTON}复选框。"
+
+#. NoManualDelivery.STRINGS.OPTIONS.ALLOWTRANSFERARMPICKUPGASLIQUID.NAME
+msgctxt "NoManualDelivery.STRINGS.OPTIONS.ALLOWTRANSFERARMPICKUPGASLIQUID.NAME"
+msgid "{SOLIDTRANSFERARM} can pick up and deliver liquid/gas Bottles and Canisters."
+msgstr "{SOLIDTRANSFERARM}可以拾取和运送液体/气体瓶和罐。"
+
+#. NoManualDelivery.STRINGS.OPTIONS.ALLOWTRANSFERARMPICKUPGASLIQUID.TOOLTIP
+msgctxt "NoManualDelivery.STRINGS.OPTIONS.ALLOWTRANSFERARMPICKUPGASLIQUID.TOOLTIP"
+msgid "Also adds the {ALLOWMANUALBUTTON} checkbox to the Pitcher Pump, Canister Filler, Bottle Emptier and Canister Emptier."
+msgstr "还会为水泵、罐装机、倒瓶器和倒罐器添加{ALLOWMANUALBUTTON}复选框。"
+

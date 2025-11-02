@@ -1,0 +1,141 @@
+
+#. ExoticCuisine.STRINGS.FRUITS.DRAGONPLANT.DESC
+msgctxt "ExoticCuisine.STRINGS.FRUITS.DRAGONPLANT.DESC"
+msgid "Juicy, full of water and sugars"
+msgstr "多汁，富含水分和糖分"
+
+#. ExoticCuisine.STRINGS.FRUITS.DRAGONPLANT.NAME
+msgctxt "ExoticCuisine.STRINGS.FRUITS.DRAGONPLANT.NAME"
+msgid "Drake Heart"
+msgstr "龙心果"
+
+#. ExoticCuisine.STRINGS.FRUITS.MANTLEER.DESC
+msgctxt "ExoticCuisine.STRINGS.FRUITS.MANTLEER.DESC"
+msgid "Full of interesting flavors"
+msgstr "充满有趣的风味"
+
+#. ExoticCuisine.STRINGS.FRUITS.MANTLEER.NAME
+msgctxt "ExoticCuisine.STRINGS.FRUITS.MANTLEER.NAME"
+msgid "Mantle Berry"
+msgstr "地幔浆果"
+
+#. ExoticCuisine.STRINGS.FRUITS.ROCKONION.DESC
+msgctxt "ExoticCuisine.STRINGS.FRUITS.ROCKONION.DESC"
+msgid "For something grow ou of rock, it doesn't taste that bad"
+msgstr "对于从岩石中长出来的东西，味道其实还不错"
+
+#. ExoticCuisine.STRINGS.FRUITS.ROCKONION.NAME
+msgctxt "ExoticCuisine.STRINGS.FRUITS.ROCKONION.NAME"
+msgid "Rockonion Bulb"
+msgstr "岩葱球茎"
+
+#. ExoticCuisine.STRINGS.FRUITS.SPIRALCICLE.DESC
+msgctxt "ExoticCuisine.STRINGS.FRUITS.SPIRALCICLE.DESC"
+msgid "Cold to the mouth"
+msgstr "入口冰凉"
+
+#. ExoticCuisine.STRINGS.FRUITS.SPIRALCICLE.NAME
+msgctxt "ExoticCuisine.STRINGS.FRUITS.SPIRALCICLE.NAME"
+msgid "Spiralcicle Nut"
+msgstr "螺旋冰坚果"
+
+#. ExoticCuisine.STRINGS.PLANTS.DRAGONPLANT.DESC
+msgctxt "ExoticCuisine.STRINGS.PLANTS.DRAGONPLANT.DESC"
+msgid "They grow on arid lands"
+msgstr "它们生长在干旱的土地上"
+
+#. ExoticCuisine.STRINGS.PLANTS.DRAGONPLANT.DOMESTICATEDDESC
+msgctxt "ExoticCuisine.STRINGS.PLANTS.DRAGONPLANT.DOMESTICATEDDESC"
+msgid "Dragonplant DOMESTICATEDDESC"
+msgstr "龙植驯化描述"
+
+#. ExoticCuisine.STRINGS.PLANTS.DRAGONPLANT.NAME
+msgctxt "ExoticCuisine.STRINGS.PLANTS.DRAGONPLANT.NAME"
+msgid "Drake Mouth"
+msgstr "龙嘴草"
+
+#. ExoticCuisine.STRINGS.PLANTS.MANTLEER.DESC
+msgctxt "ExoticCuisine.STRINGS.PLANTS.MANTLEER.DESC"
+msgid "They shine and absorb natural gas"
+msgstr "它们会发光并吸收天然气"
+
+#. ExoticCuisine.STRINGS.PLANTS.MANTLEER.DOMESTICATEDDESC
+msgctxt "ExoticCuisine.STRINGS.PLANTS.MANTLEER.DOMESTICATEDDESC"
+msgid "Mantleer DOMESTICATEDDESC"
+msgstr "地幔草驯化描述"
+
+#. ExoticCuisine.STRINGS.PLANTS.MANTLEER.NAME
+msgctxt "ExoticCuisine.STRINGS.PLANTS.MANTLEER.NAME"
+msgid "Mantleer"
+msgstr "地幔草"
+
+#. ExoticCuisine.STRINGS.PLANTS.ROCKONION.DESC
+msgctxt "ExoticCuisine.STRINGS.PLANTS.ROCKONION.DESC"
+msgid "Absorbs rocks to grow their stem"
+msgstr "吸收岩石来生长茎部"
+
+#. ExoticCuisine.STRINGS.PLANTS.ROCKONION.DOMESTICATEDDESC
+msgctxt "ExoticCuisine.STRINGS.PLANTS.ROCKONION.DOMESTICATEDDESC"
+msgid "Rockonion DOMESTICATEDDESC"
+msgstr "岩葱驯化描述"
+
+#. ExoticCuisine.STRINGS.PLANTS.ROCKONION.NAME
+msgctxt "ExoticCuisine.STRINGS.PLANTS.ROCKONION.NAME"
+msgid "Rockonion"
+msgstr "岩葱"
+
+#. ExoticCuisine.STRINGS.PLANTS.SPIRALCICLE.DESC
+msgctxt "ExoticCuisine.STRINGS.PLANTS.SPIRALCICLE.DESC"
+msgid "Grow on ceiling on caves"
+msgstr "生长在洞穴天花板上"
+
+#. ExoticCuisine.STRINGS.PLANTS.SPIRALCICLE.DOMESTICATEDDESC
+msgctxt "ExoticCuisine.STRINGS.PLANTS.SPIRALCICLE.DOMESTICATEDDESC"
+msgid "Spiralcicle DOMESTICATEDDESC"
+msgstr "螺旋冰草驯化描述"
+
+#. ExoticCuisine.STRINGS.PLANTS.SPIRALCICLE.NAME
+msgctxt "ExoticCuisine.STRINGS.PLANTS.SPIRALCICLE.NAME"
+msgid "Spiralcicle"
+msgstr "螺旋冰草"
+
+#. ExoticCuisine.STRINGS.SEEDS.DRAGONPLANT.DESC
+msgctxt "ExoticCuisine.STRINGS.SEEDS.DRAGONPLANT.DESC"
+msgid "Drake Mouth Seed Desc"
+msgstr "龙嘴草种子描述"
+
+#. ExoticCuisine.STRINGS.SEEDS.DRAGONPLANT.NAME
+msgctxt "ExoticCuisine.STRINGS.SEEDS.DRAGONPLANT.NAME"
+msgid "Drake Mouth Seed"
+msgstr "龙嘴草种子"
+
+#. ExoticCuisine.STRINGS.SEEDS.MANTLEER.DESC
+msgctxt "ExoticCuisine.STRINGS.SEEDS.MANTLEER.DESC"
+msgid "Mantleer Seed Desc"
+msgstr "地幔草种子描述"
+
+#. ExoticCuisine.STRINGS.SEEDS.MANTLEER.NAME
+msgctxt "ExoticCuisine.STRINGS.SEEDS.MANTLEER.NAME"
+msgid "Mantleer Seed"
+msgstr "地幔草种子"
+
+#. ExoticCuisine.STRINGS.SEEDS.ROCKONION.DESC
+msgctxt "ExoticCuisine.STRINGS.SEEDS.ROCKONION.DESC"
+msgid "Rockonion Seed Desc"
+msgstr "岩葱种子描述"
+
+#. ExoticCuisine.STRINGS.SEEDS.ROCKONION.NAME
+msgctxt "ExoticCuisine.STRINGS.SEEDS.ROCKONION.NAME"
+msgid "Rockonion Seed"
+msgstr "岩葱种子"
+
+#. ExoticCuisine.STRINGS.SEEDS.SPIRALCICLE.DESC
+msgctxt "ExoticCuisine.STRINGS.SEEDS.SPIRALCICLE.DESC"
+msgid "Spiralcicle Seed Desc"
+msgstr "螺旋冰草种子描述"
+
+#. ExoticCuisine.STRINGS.SEEDS.SPIRALCICLE.NAME
+msgctxt "ExoticCuisine.STRINGS.SEEDS.SPIRALCICLE.NAME"
+msgid "Spiralcicle Seed"
+msgstr "螺旋冰草种子"
+
